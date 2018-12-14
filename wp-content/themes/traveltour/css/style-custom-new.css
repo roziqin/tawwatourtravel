@@ -1,0 +1,1102 @@
+.clear {
+	clear: both;
+}
+
+.cs-mobile {
+	display: none;
+}
+
+.dp-desktop {
+	display: inherit;
+}
+.dp-mobile {
+	display: none;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+	float: left;
+}
+
+.col-xs-4 {
+    width: 33.33333333%;
+}
+.overlay-background {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+.traveltour-header-background, .traveltour-sticky-menu-placeholder, .traveltour-header-style-boxed.traveltour-fixed-navigation {
+	background-color: #FFFFFF;
+}
+
+.traveltour-sticky-navigation.traveltour-fixed-navigation .traveltour-header-background {
+	background-color: rgba(255, 255, 255, 0.9);
+}
+
+.traveltour-mobile-menu-button i, .traveltour-main-menu-search i {
+	color: #000000;
+}
+
+.traveltour-mobile-menu .traveltour-mobile-menu-button {
+	border-color: #000;
+}
+
+#menu-top-menu.sf-menu li a {
+	color: #383838;
+}
+
+#menu-top-menu.sf-menu .sub-menu li a {
+	color: #FFFFFF;
+}
+
+.slick-next, .slick-prev {
+	background: rgba(0,0,0,.1);
+}
+
+.slick-next:hover, .slick-prev:hover {
+	background: rgba(0,0,0,.6);
+}
+
+.ct-slick .item {
+	padding: 0px;
+}
+
+.ct-slick .ct-slick-inner {
+	background-color: rgba(0,0,0,0);
+}
+
+.col-xs-4.custom-box {
+	margin-bottom: 20px;
+}
+
+.gdlr-core-pbf-wrapper.custom {
+	padding-top: 0px;
+}
+
+.tour-detail .ct-deliveryBox .ct-productBox-deliveryInformation span {
+	display: inline-block;
+	color: #4b4a4a;
+}
+
+.tour-detail .ct-deliveryBox .ct-productBox-deliveryInformation span:last-of-type {
+	margin-left: 5px;
+}
+
+.tour-detail .ct-deliveryBox .ct-productBox-deliveryInformation .ct-productBox-MetaItem {
+	display: inline-block;
+	width: 33%;
+	text-align: left;
+}
+
+.tour-detail .calc-tour-price {
+	border: 1px solid #dce0e0;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+}
+.tour-detail .calc-tour-price .header {
+	background-color: #498bcf;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+	border: 1px solid #498bcf;
+	color: #FFF;
+	padding: 5px 15px; 
+	display: inline-block;
+	width: 100%;
+}
+.tour-detail .calc-tour-price .header span.person {
+	font-size: 13px;
+	float: right;
+	display: inline-block;
+	margin-top: 9px;
+
+}
+.tour-detail .calc-tour-price .header span.tour-price {
+	font-size: 24px;
+	font-weight: 700;
+	float: left;
+	display: inline-block;
+	margin-top: 0px;
+}
+
+.tour-detail .calc-tour-price .content {
+	padding: 20px 15px;
+}
+
+.tour-detail .calc-tour-price .content input[type="number"] {
+	border: 1px solid #dce0e0;
+	border-radius: 4px;
+	width: 40px;
+	padding: 5px 0px 5px 5px;
+}
+
+.tour-detail .calc-tour-price .content table {
+	width: 100%;
+}
+
+.tour-detail .calc-tour-price .content td {
+	padding-right: 10px;
+	padding-bottom: 15px;
+}
+
+.tour-detail .calc-tour-price .content td:last-child {
+	padding-right: 0px;
+	text-align: right;
+}
+.header-slide {
+	position: relative;
+}
+
+.bg-grey {
+	background-color: #e1e1e1;
+}
+
+.bg-blue {
+	background-color: #498bcf;
+}
+
+.box-row {
+}
+
+a.btn-custom {
+	color: #9a9a9a;
+	font-size: 14px;
+}
+
+.btn.btn-custom {
+	padding-bottom: 20px;
+}
+
+.btn:active {
+	box-shadow: none;
+}
+
+.btn.btn-custom.active {
+	background-color: transparent;
+	color: #4b4a4a;
+	border: 0px;
+	border-bottom: 2px solid #498bcf;
+	border-radius: 0px;
+	box-shadow: none;
+}
+
+a.btn.btn-custom.btn-navigasi {
+	color: #FFF;
+}
+
+a.btn.btn-custom.btn-navigasi:hover,
+.btn.btn-custom.btn-navigasi.active {
+	color: #FFF;
+	border: 0px;	
+	border-bottom: 2px solid #FFF;
+	border-radius: 0px;
+	box-shadow: none;
+}
+
+.btn-wa {
+	background-color: #4dc247;
+	color: #FFFFFF;
+	width: 48px;
+	height: 48px;
+	display: inline-block;
+	border-radius: 30px;
+	text-align: center;
+	vertical-align: center;
+	margin-right: 30px;
+	border: 2px solid rgba(255,255,255,1);
+}
+
+.btn-phone {
+	background-color: #498bcf;
+	color: #FFFFFF;
+	width: 48px;
+	height: 48px;
+	display: inline-block;
+	border-radius: 30px;
+	text-align: center;
+	border: 2px solid rgba(255,255,255,1);
+}
+
+
+.btn-phone i.fa,
+.btn-wa i.fa {
+	font-size: 24px;
+	margin-top: 10px;
+}
+
+.contact .ct-textBox--small {
+	padding: 27px 15px;
+}
+
+.contact .ct-list--circleWithIcons-bordered li h6 {
+	margin-bottom: 5px;
+}
+
+.contact .ct-list--circleWithIcons-bordered li {
+	padding-left: 38px;
+	padding-top: 17px;
+}
+
+.ct-menuMobile {
+	overflow: initial;
+}
+
+.ct-gallery--product.list-tour .ct-gallery-item {
+	padding: 0px;
+	margin-bottom: 50px;
+    width: calc(100% - 30px);
+    margin-left: 15px;
+}
+
+.box-paket.ct-productBox {
+	margin-left: 0px;
+	-webkit-box-shadow: 0 0 0 0 transparent;
+	box-shadow: 0 0 0 0 transparent;
+	border: 1px solid #dce0e0;
+	border-radius: 4px;
+	display: inline-block;
+	height: 358px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+
+.page-home .box-paket.ct-productBox {
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.box-paket.ct-productBox.related {
+	height: 265px;
+}
+
+.box-paket.ct-productBox,
+.ct-gallery--product.list-tour .ct-gallery-item {
+	-webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+.box-paket.ct-productBox:hover {
+	-webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    -o-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    transform: translateY(-4px);
+    -webkit-box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+}
+
+.ct-gallery--product.list-tour .ct-gallery-item:hover {
+	-webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    -o-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    transform: translateY(-4px);
+    -webkit-box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.ct-gallery--product.list-tour .ct-gallery-item .ct-productBox {
+	border-bottom: 3px solid #3d82c8;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.list-tour .ct-gallery-item {
+	float: left;
+}
+
+.box-paket.ct-productBox .ct-productBox-Description {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+.box-paket.ct-productBox .ct-productBox-DescriptionInner {
+	padding: 20px 15px 15px;
+}
+
+.ct-u-decoration--triangleBefore:before {
+	background: none;
+}
+
+.ct-u-backgroundMotive {
+	
+}
+
+.ct-productBox .ct-productBox-imageContainer {
+	top: 0px;
+	left: 0px;
+}
+
+.ct-productBox .ct-productBox-image, .ct-productBox .ct-productBox-Description {
+	display: inline-block;
+	width: 100%;
+}
+
+.ct-productBox .ct-productBox-Meta {
+	padding: 0px 15px 25px;
+}
+
+.ct-productBox .ct-productBox-image {
+	
+}
+
+.box-paket.ct-productBox .overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #000000;
+	opacity: 0;
+    -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    border-radius: 4px;
+
+}
+
+.box-paket.ct-productBox:hover .overlay {
+	opacity: .4;
+
+}
+
+.box-paket.ct-productBox a {
+	position: relative;
+    height: 100%;
+    display: inline-block;
+    width: 100%;
+    color: #4b4a4a;
+}
+
+.box-paket.ct-productBox a h5 {
+	font-size: 20px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.box-paket.ct-productBox .tour-price {
+	position: absolute;
+    bottom: 115px;
+    left: 0;
+    background: #498bcf;
+    padding: 3px 10px 2px 10px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+    -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+.box-paket.ct-productBox:hover .tour-price {
+    left: 5px;
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.box-paket.ct-productBox .ct-productBox-Meta {
+	display: inline-block;
+	width: 100%;
+	font-size: 13px;
+	text-align: left;
+}
+
+.box-paket.ct-productBox .ct-productBox-Meta .ct-productBox-MetaItem {
+	width: 50%;
+	padding-left: 0px;
+	float: left;
+	font-weight: 600;
+}
+
+.box-paket.ct-productBox .ct-productBox-Meta .ct-productBox-MetaItem:last-child {
+	padding-left: 10px;
+	text-align: right;
+}
+
+#packages .ct-productBox-Meta img.icon-time,
+.ct-productBox-Meta img.icon-time {
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	margin-top: -1px;
+	margin-right: 3px;
+}
+
+#packages .ct-productBox img {
+	max-width: 100%;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	width: 100%;
+}
+
+.icon {
+	width: 20px;
+	height: 20px;
+	margin-right: 20px;
+	display: inline-block;
+    transition: all .5s ease;
+    -webkit-transition: all .6s ease;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.gdlr-core-item-pdb.parallax {
+	padding: 0px;
+	position: relative;
+	height: 300px;
+	clear: both;
+	overflow: hidden;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+        background-image: none;
+}
+
+.gdlr-core-item-pdb.parallax .gdlr-core-text-box-item-content {
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.gdlr-core-item-pdb.parallax .parallax-content {
+	    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    top: 0px;
+}
+/*------------------- Blogs ------------------*/
+.ct-blog .ct-article--inline {
+	border: 1px solid #dce0e0;
+	border-radius: 5px;
+	padding: 0px;
+	margin-bottom: 40px;
+	-webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+.ct-blog .ct-article--inline:hover {
+	-webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    -o-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    transform: translateY(-4px);
+    -webkit-box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 22px 40px rgba(0, 0, 0, 0.15);
+}
+
+.ct-blog .ct-article--inline .ct-article-media, .ct-blog .ct-article--inline .ct-article-body {
+	display: inline-block;
+}
+
+.ct-blog .ct-article--inline .ct-article-media {
+	width: 100%;
+	max-width: inherit;
+	padding-right: 0px;
+}
+
+.ct-blog .ct-article--inline .ct-article-media .blog-image {
+	width: 100%;
+	height: 225px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.ct-blog .ct-article--inline .ct-article-body {
+	padding: 20px 30px;
+}
+
+.ct-blog .ct-article--inline .ct-article-meta .ct-article-date {
+	margin-bottom: 10px;
+}
+
+.ct-blog .ct-article--inline .ct-article-description {
+	position: relative;
+	min-height: 110px;
+}
+
+.ct-blog .ct-article--inline .ct-article-description p {
+	display: inline-block;
+}
+
+.ct-blog .ct-article--inline .ct-article-body .btn-read-more {
+	color: rgba(75, 74, 74, .6);
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+.ct-blog .ct-article--inline .ct-article-body .btn-read-more:hover {
+	color: rgba(75, 74, 74, 1);
+}
+
+/*--------------- Related ------------------*/
+.ct-blog .related .ct-article--inline .ct-article-media .blog-image {
+	height: 150px;
+}
+
+.ct-blog .related .ct-article--inline .ct-article-title a h5 {
+	font-size: 13px;
+	line-height: 16px;
+}
+
+.ct-blog .related .ct-article--inline .ct-article-body {
+	padding: 20px;
+}
+
+.ct-blog .related .ct-article .ct-article-meta {
+	font-size: 10px;
+	margin-top: -5px;
+}
+
+.ct-blog .related .ct-article--inline .ct-article-description {
+	font-size: 13px;
+	border: 0px;
+	min-height: 20px;
+}
+
+
+
+.list-tour.related .box-paket.ct-productBox {
+	height: 265px;
+}
+
+.list-tour.related .box-paket.ct-productBox a h5 {
+	font-size: 15px;
+}
+
+.list-tour.related .box-paket.ct-productBox .ct-productBox-Meta {
+	font-size: 11px;
+}
+
+.ct-blog.related .ct-article--inline .ct-article-media .blog-image {
+	height: 180px;
+}
+
+.ct-blog.related .ct-article--inline .ct-article-description {
+	min-height: 50px;
+}
+
+.ct-blog.related .custom-box h5 {
+	font-size: 16px;
+}
+/*--------------------------------------------------*/
+
+.image-box {
+	margin-left: 0px!important;
+}
+
+.logo-bottom {
+	width: 220px;
+	height: auto;
+}
+
+.box-nav-footer {
+	margin-bottom: 30px;
+}
+
+.box-nav-footer p {
+	font-size: 13px;
+	font-weight: 400;
+} 
+
+.box-nav-footer .box-1 p {
+	padding-right: 20px;
+}
+
+.box-nav-footer h4 {
+	font-size: 20px;
+}
+
+.box-nav-footer .box-2 a {
+	border-bottom: 1px solid #FFF;
+	display: inline-block;
+	margin-bottom: 5px;
+	padding-bottom: 10px;
+}
+
+.box-nav-footer .box-2 a:hover {
+	color: #4b4a4a;
+}
+
+.box-nav-footer .box-2 .img-blog {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+
+.box-nav-footer .box-2 p {
+	display: inline-block;
+	width: calc(100% - 50px);
+	line-height: normal;
+}
+
+
+.box-contact-fixed {
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: #498bcf;
+    padding: 20px 0px;
+    z-index: 1;
+}
+
+.box-contact-fixed a {
+	color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: .5px;
+}
+
+footer .ct-postfooter {
+	color: #FFF;
+	font-size: 12px;
+}
+
+footer {
+	padding-bottom: 70px;
+}
+
+
+
+/*------------- new style theme -----------------*/
+
+.tourmaster-tour-modern.tourmaster-with-thumbnail .tourmaster-tour-content-wrap {
+	left: 0px;
+	right: 0px;
+}
+
+.tourmaster-tour-booking-bar-wrap .tourmaster-single-tour-booking-fields {
+	display: none;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid {
+	position: relative;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid:hover {
+	-webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    -o-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    transform: translateY(-4px);
+    -webkit-box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 11px 20px rgba(0, 0, 0, 0.15);
+	-webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid .tourmaster-tour-content-wrap {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    bottom: 0px;
+    background-color: rgba(0,0,0,0);
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    -o-transition-duration: .2s;
+    transition-duration: .2s;
+    border-radius: 4px;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid:hover .tourmaster-tour-content-wrap {
+	background-color: rgba(0,0,0,.5);
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid .tourmaster-tour-content-wrap h3 {
+	position: absolute;
+    bottom: 20px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid .tourmaster-tour-thumbnail img {
+	border-radius: 4px;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid.tourmaster-price-right-title .tourmaster-tour-title {
+	padding: 0px 5px;
+	font-size: 13px;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid.tourmaster-price-right-title .tourmaster-tour-title a {
+	color: #FFFFFF;
+	position: absolute;
+    width: 100%;
+    left: 0px;
+    padding: 5px;
+    bottom: 0px;
+    height: 100%;
+    padding-top: 75%;
+}
+
+.tourmaster-single-related-tour .tourmaster-tour-grid.tourmaster-price-right-title .tourmaster-tour-price-wrap {
+	display: none;
+}
+
+/*------------ Footer ----------*/
+#gdlr-core-recent-post-widget-2 .gdlr-core-recent-post-widget .gdlr-core-recent-post-widget-thumbnail {
+	display: none;
+}
+
+#gdlr-core-recent-post-widget-2 .gdlr-core-recent-post-widget .gdlr-core-recent-post-widget-title {
+	font-size: 14px;
+}
+
+#gdlr-core-recent-post-widget-2 .gdlr-core-recent-post-widget {
+	border-bottom: 1px solid;
+	margin-bottom: 8px;
+}
+
+#gdlr-core-recent-post-widget-2 .gdlr-core-recent-post-widget .gdlr-core-blog-info {
+	display: none;
+}
+
+/*--------- About ---------*/
+.gdlr-core-pbf-wrapper.about {
+	max-width: 1140px;
+    margin: 50px auto;
+    width: 80%;
+}
+
+
+@media (min-width: 992px) {
+	.navbar-wrapper {
+	    height: auto;
+	}
+}
+
+@media (min-width: 768px) {
+
+	.gdlr-core-item-list .tourmaster-tour-modern .tourmaster-tour-content-wrap {
+	    position: absolute;
+	    height: 100%;
+	    width: 100%;
+	    bottom: 0px;
+	    background-color: rgba(0,0,0,0);
+	    -webkit-transition-duration: .5s;
+	    -moz-transition-duration: .5s;
+	    -o-transition-duration: .5s;
+	    transition-duration: .5s;
+	    border-radius: 4px;
+	}
+
+	.gdlr-core-item-list .tourmaster-tour-modern .tourmaster-tour-content-wrap {
+	    background-color: rgba(0,0,0,.6);
+
+	}
+
+	.gdlr-core-item-list .tourmaster-tour-modern .tourmaster-tour-content-wrap h3 {
+	    position: absolute;
+	    bottom: -40px;
+	    width: calc(100% - 50px);
+	    height: 100%;
+	}
+
+	.gdlr-core-item-list .tourmaster-tour-modern .tourmaster-tour-title a {
+	    color: #FFFFFF;
+	    position: absolute;
+	    width: 100%;
+	    left: 0px;
+	    padding: 5px;
+	    bottom: 0px;
+	    height: 100%;
+	    padding-top: 75%;
+	}
+
+	.gdlr-core-item-list .tourmaster-tour-modern.tourmaster-with-thumbnail .tourmaster-tour-info-wrap {
+		position: absolute;
+	    bottom: 13px;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.ct-productBox.box-paket {
+		min-height: 180px;
+	}
+
+	.ct-productBox.box-paket img {
+		height: 180px;
+		width: auto;
+	}
+
+	.ct-productBox.box-paket .ct-productBox-image, .ct-productBox.box-paket .ct-productBox-Description {
+		display: inline-block;
+	}
+
+	.ct-productBox.box-paket .ct-productBox-image {
+		width: 175px;
+	}
+
+	.ct-productBox.box-paket .ct-productBox-Description {
+		width: calc(100% - 175px);
+	}
+
+	.ct-productBox.box-paket .ct-productBox-DescriptionInner {
+		padding: 20px 8px 10px 0px;
+	}
+
+	.ct-productBox.box-paket .ct-productBox-Meta .btn {
+		width: 100%;
+	}
+
+	.btn-all {
+		width: 100%;
+	}
+}
+
+@media (max-width: 767px) {
+	.col-custom-4 {
+	 	width: 33.3333%;
+	 	float: left;
+	 	display: inline-block;
+	 }
+	.col-xs-6,
+	.col-xs-4 {
+		width: 100%;
+	}
+
+	header .ct-slick .ct-slick-content {
+		padding: 0;
+	}
+
+	.ct-breadcrumbs {
+		position: relative;
+	}
+
+	.ct-productBox.box-paket {
+		max-width: 550px;
+		margin: 0px auto 50px;
+	}
+
+	.ct-slick .item {
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	.ct-u-decoration--triangleBefore:before {
+		background: none;
+		z-index: -1;
+	}
+
+	.slick-next, .slick-prev {
+		border: 0px;
+	}
+
+	a.btn-paket {
+		width: 47%;
+		margin-right: 6%;
+	} 
+
+	a.btn-paket:last-child {
+		margin-right: 0px;
+	}
+
+	a.btn-all {
+		width: 100%;
+	}
+
+	.ct-mediaSection.custom {
+		background-size: auto 230px!important;
+		background-position: 0px 70px!important;
+	}
+
+	.tour-detail .ct-sidebar, .widget-bantuan {
+		display: none;
+	}
+
+	.cs-mobile {
+		display: inherit;
+		position: fixed;
+		bottom: 5px;
+		z-index: 1;
+		left: calc(50% - 63px);
+	}
+
+	.ct-form div[class^="col-"], .ct-form div[class^="col-"]:last-child {
+		padding: 0px 15px;
+	}
+
+	.contact .col-md-9 {
+		margin-top: 20px;
+	}
+
+	.contact .col-md-9 h4 {
+		margin-bottom: 20px;
+	}
+
+	.tourmaster-tour-modern.tourmaster-with-thumbnail .tourmaster-tour-content-wrap {
+		-webkit-transform: translate3d(0, 2px, 0);
+	    transform: translate3d(0, 2px, 0);
+	}
+
+	/*-------------- Footer ------------*/
+
+	.box-nav-footer .box-1 {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+
+	.box-nav-footer .box-2 h4 {
+		text-align: center;
+	}
+
+	.box-nav-footer .box-2 a {
+		display: inline-block;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.box-nav-footer .box-3 {
+		text-align: center;
+	}
+
+}
+
+@media (max-width: 600px) {
+	.dp-desktop {
+		display: none;
+	}
+	.dp-mobile {
+		display: inherit;
+	}
+	.ct-productBox.box-paket .ct-productBox-imageContainer img {
+		height: auto;
+	}
+	.col-xs-6.custom-box {
+		padding: 0px 25px;
+	}
+
+	.list-tour {
+
+	}
+	.list-tour .ct-productBox {
+		display: inline-block;
+		padding: 15px;
+	}
+
+	.list-tour .ct-productBox .ct-productBox-image {
+		margin-bottom: 15px;
+	}
+	.list-tour .ct-gallery-item {
+		position: relative!important;
+		max-width: 430px;
+		top: inherit!important;
+		padding-bottom: 40px;
+	}
+
+	.list-tour h4 {
+		font-size: 16px;
+		margin-bottom: 0px;
+	}
+
+	.list-tour .ct-productBox--moreInfo-inline .ct-productBox-deliveryInformation span {
+		font-size: 13px;
+	}
+
+	.list-tour .ct-productBox--moreInfo-inline .ct-productBox-deliveryInformation .h5 {
+		font-size: 16px;
+	}
+
+	.list-tour .ct-productBox--moreInfo-inline .ct-productBox-Meta {
+		width: 100%;
+		padding: 0px;
+	}
+
+	.list-tour .ct-productBox .ct-productBox-Meta .btn {
+		width: 47%;
+		margin-right: 6%;
+		padding: 0px;
+	}
+
+	.list-tour .ct-productBox .ct-productBox-Meta .btn:last-child {
+		margin-right: 0px;
+	}
+
+	.about-us .ct-infoBox .ct-infoBox-description h3 {
+		font-size: 24px;
+	}
+
+	.about-us .ct-infoBox {
+		padding: 20px;
+	}
+
+
+}
+
+
+@media (max-width: 420px) {
+	.tour-detail .btn-booking {
+		width: 100%;
+		margin-top: 15px;
+		margin-bottom: 5px;
+	}
+
+	.tour-detail .ct-deliveryBox .ct-productBox-deliveryInformation .ct-productBox-MetaItem {
+		width: 100%;
+		margin-bottom: 0px;
+	}
+
+	.tour-detail .ct-deliveryBox .ct-productBox-deliveryInformation .ct-productBox-MetaItem span {
+		
+	}
+
+	a.btn-custom {
+		font-size: 13px;
+	}
+
+	.btn.btn-custom {
+		padding: 0px 10px 20px;
+	}
+}
+
+@media (max-width: 350px) {
+	.btn.btn-custom {
+		padding: 0px 7px 20px;
+	}
+}

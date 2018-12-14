@@ -1,0 +1,661 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers Core Portfolio\n"
+"POT-Creation-Date: 2017-02-01 13:14+0700\n"
+"PO-Revision-Date: 2016-06-25 01:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: Goodlayers\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__(;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: goodlayers-core-portfolio.php:28 goodlayers-core-portfolio.php:29
+#: goodlayers-core-portfolio.php:30 goodlayers-core-portfolio.php:31
+#: pb-element-portfolio.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:32
+msgid "Add New"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:33
+msgid "Add New Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:34
+msgid "New Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:35
+msgid "Edit Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:36
+msgid "View Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:37
+msgid "All Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:38
+msgid "Search Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:39
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:40
+msgid "No portfolio found."
+msgstr ""
+
+#: goodlayers-core-portfolio.php:41
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: goodlayers-core-portfolio.php:45
+msgid "Description."
+msgstr ""
+
+#: goodlayers-core-portfolio.php:65
+msgid "Portfolio Category"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:77
+msgid "Portfolio Tag"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:131 pb-element-portfolio.php:34
+msgid "General"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:134
+msgid "Enable Page Title"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:139
+msgid "Caption"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:144
+msgid "Page Title Background"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:149
+msgid "Show WordPress Editor Content"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:152
+msgid "Disable this to hide the content in editor to show only page builder content."
+msgstr ""
+
+#: goodlayers-core-portfolio.php:156
+msgid "Thumbnail Type"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:159
+msgid "Feature Image"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:160
+msgid "Video"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:161
+msgid "Slider"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:165
+msgid "Title ( If Available ) Link To"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:168 goodlayers-core-portfolio.php:181
+msgid "Single Portfolio"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:169
+msgid "Same As Icon"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:174
+msgid "Hover Icon Link To"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:177 goodlayers-core-portfolio.php:237
+msgid "Lightbox with full image"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:178 goodlayers-core-portfolio.php:238
+msgid "Lightbox with custom image"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:179 goodlayers-core-portfolio.php:239
+msgid "Video Lightbox"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:180 goodlayers-core-portfolio.php:202
+#: goodlayers-core-portfolio.php:241 goodlayers-core-portfolio.php:268
+msgid "Custom Url"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:186 goodlayers-core-portfolio.php:246
+msgid "Upload Custom Image"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:194 goodlayers-core-portfolio.php:222
+#: goodlayers-core-portfolio.php:253
+msgid "Video Url ( Youtube / Vimeo )"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:210 goodlayers-core-portfolio.php:275
+msgid "Custom Link Target"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:213 goodlayers-core-portfolio.php:278
+msgid "Current Screen"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:214 goodlayers-core-portfolio.php:279
+msgid "New Window"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:227
+msgid "Slider Images"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:234
+msgid "Link To"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:240
+msgid "Specific Page"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:242 pb-element-portfolio.php:76
+#: pb-element-portfolio.php:93 pb-element-portfolio.php:267
+#: pb-element-portfolio.php:335 pb-element-portfolio.php:362
+msgid "None"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:260
+msgid "Page Id"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:288
+msgid "Title Style"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:291
+msgid "Page Title Style"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:294 goodlayers-core-portfolio.php:384
+#: pb-element-portfolio.php:103
+msgid "Default"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:295 pb-element-portfolio.php:181
+msgid "Small"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:296
+msgid "Medium"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:297 pb-element-portfolio.php:182
+msgid "Large"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:298
+msgid "Custom"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:303
+msgid "Page Title Alignment"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:310
+msgid "Page Title Padding"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:319
+msgid "Page Title Font Size"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:328
+msgid "Page Title Background Overlay Opacity"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:330
+msgid "Fill the number between 0 - 1 ( Leave Blank For Default Value )"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:334
+msgid "Page Title Color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:338
+msgid "Page Caption Color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:342
+msgid "Page Background Overlay Color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:349
+msgid "Badge"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:353 pb-element-portfolio.php:241
+msgid "Enable Badge"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:358
+msgid "Badge Text"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:364
+msgid "Badge Text Color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:367 goodlayers-core-portfolio.php:373
+msgid "Leave this field blank to use default color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:370
+msgid "Badge Background Color"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:379
+msgid "Metro Layout"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:382 pb-element-portfolio.php:218
+msgid "Column Size"
+msgstr ""
+
+#: goodlayers-core-portfolio.php:389 goodlayers-core-portfolio.php:397
+msgid "Choosing default will display the value selected by the page builder item."
+msgstr ""
+
+#: goodlayers-core-portfolio.php:392 pb-element-portfolio.php:178
+#: pb-element-portfolio.php:225 portfolio-slider-widget.php:123
+msgid "Thumbnail Size"
+msgstr ""
+
+#: pb-element-portfolio.php:38 portfolio-slider-widget.php:108
+#: recent-portfolio-widget.php:97
+msgid "Category"
+msgstr ""
+
+#: pb-element-portfolio.php:41
+msgid "You can use Ctrl/Command button to select multiple items or remove the selected item. Leave this field blank to select all items in the list."
+msgstr ""
+
+#: pb-element-portfolio.php:44
+msgid "Tag"
+msgstr ""
+
+#: pb-element-portfolio.php:49
+msgid "Num Fetch"
+msgstr ""
+
+#: pb-element-portfolio.php:53
+msgid "The number of posts showing on the blog item"
+msgstr ""
+
+#: pb-element-portfolio.php:56
+msgid "Order By"
+msgstr ""
+
+#: pb-element-portfolio.php:59
+msgid "Publish Date"
+msgstr ""
+
+#: pb-element-portfolio.php:60 portfolio-slider-widget.php:101
+#: recent-portfolio-widget.php:90
+msgid "Title"
+msgstr ""
+
+#: pb-element-portfolio.php:61
+msgid "Random"
+msgstr ""
+
+#: pb-element-portfolio.php:65
+msgid "Order"
+msgstr ""
+
+#: pb-element-portfolio.php:68
+msgid "Descending Order"
+msgstr ""
+
+#: pb-element-portfolio.php:69
+msgid "Ascending Order"
+msgstr ""
+
+#: pb-element-portfolio.php:73
+msgid "Category Filterer"
+msgstr ""
+
+#: pb-element-portfolio.php:77
+msgid "Filter Text Style"
+msgstr ""
+
+#: pb-element-portfolio.php:78
+msgid "Filter Button Style"
+msgstr ""
+
+#: pb-element-portfolio.php:80
+msgid "Filter is not supported and will be automatically disabled on carousel layout."
+msgstr ""
+
+#: pb-element-portfolio.php:83
+msgid "Filterer Alignment"
+msgstr ""
+
+#: pb-element-portfolio.php:90
+msgid "Pagination"
+msgstr ""
+
+#: pb-element-portfolio.php:94
+msgid "Page"
+msgstr ""
+
+#: pb-element-portfolio.php:95
+msgid "Load More"
+msgstr ""
+
+#: pb-element-portfolio.php:97
+msgid "Pagination is not supported and will be automatically disabled on carousel layout."
+msgstr ""
+
+#: pb-element-portfolio.php:100
+msgid "Pagination Style"
+msgstr ""
+
+#: pb-element-portfolio.php:104
+msgid "Plain"
+msgstr ""
+
+#: pb-element-portfolio.php:105
+msgid "Rectangle"
+msgstr ""
+
+#: pb-element-portfolio.php:106
+msgid "Rectangle Border"
+msgstr ""
+
+#: pb-element-portfolio.php:107
+msgid "Round"
+msgstr ""
+
+#: pb-element-portfolio.php:108
+msgid "Round Border"
+msgstr ""
+
+#: pb-element-portfolio.php:109
+msgid "Circle"
+msgstr ""
+
+#: pb-element-portfolio.php:110
+msgid "Circle Border"
+msgstr ""
+
+#: pb-element-portfolio.php:116
+msgid "Pagination Alignment"
+msgstr ""
+
+#: pb-element-portfolio.php:130
+msgid "Portfolio Style"
+msgstr ""
+
+#: pb-element-portfolio.php:147
+msgid "Text Align"
+msgstr ""
+
+#: pb-element-portfolio.php:154
+msgid "Content Style"
+msgstr ""
+
+#: pb-element-portfolio.php:157
+msgid "Normal"
+msgstr ""
+
+#: pb-element-portfolio.php:158
+msgid "With Frame"
+msgstr ""
+
+#: pb-element-portfolio.php:159
+msgid "With Bottom Border"
+msgstr ""
+
+#: pb-element-portfolio.php:165
+msgid "Frame Opacity"
+msgstr ""
+
+#: pb-element-portfolio.php:168
+msgid "Fill the decimal number between 0 to 1"
+msgstr ""
+
+#: pb-element-portfolio.php:172
+msgid "Enable Portfolio Tag"
+msgstr ""
+
+#: pb-element-portfolio.php:187
+msgid "Thumbnail Style"
+msgstr ""
+
+#: pb-element-portfolio.php:190
+msgid "Left"
+msgstr ""
+
+#: pb-element-portfolio.php:191
+msgid "Right"
+msgstr ""
+
+#: pb-element-portfolio.php:192
+msgid "Switch ( Between Left and Right )"
+msgstr ""
+
+#: pb-element-portfolio.php:197
+msgid "Hover Style"
+msgstr ""
+
+#: pb-element-portfolio.php:230
+msgid "Thumbnail Zoom on Hover"
+msgstr ""
+
+#: pb-element-portfolio.php:235
+msgid "Enable Thumbnail Grayscale Effect"
+msgstr ""
+
+#: pb-element-portfolio.php:238
+msgid "Only works with browser that supports css3 filter ( http://caniuse.com/#feat=css-filters )."
+msgstr ""
+
+#: pb-element-portfolio.php:244
+msgid "You can enable badge for each portfolio at the page option area."
+msgstr ""
+
+#: pb-element-portfolio.php:247
+msgid "Layout"
+msgstr ""
+
+#: pb-element-portfolio.php:250
+msgid "Fit Rows"
+msgstr ""
+
+#: pb-element-portfolio.php:251
+msgid "Carousel"
+msgstr ""
+
+#: pb-element-portfolio.php:252
+msgid "Masonry"
+msgstr ""
+
+#: pb-element-portfolio.php:258
+msgid "Autoslide Carousel"
+msgstr ""
+
+#: pb-element-portfolio.php:264
+msgid "Carousel Navigation"
+msgstr ""
+
+#: pb-element-portfolio.php:268
+msgid "Only Navigation"
+msgstr ""
+
+#: pb-element-portfolio.php:269
+msgid "Only Bullet"
+msgstr ""
+
+#: pb-element-portfolio.php:270
+msgid "Both Navigation and Bullet"
+msgstr ""
+
+#: pb-element-portfolio.php:276
+msgid "Excerpt Type"
+msgstr ""
+
+#: pb-element-portfolio.php:279
+msgid "Specify Number"
+msgstr ""
+
+#: pb-element-portfolio.php:280
+msgid "Show All ( use <!--more--> tag to cut the content )"
+msgstr ""
+
+#: pb-element-portfolio.php:281
+msgid "Disable Exceprt"
+msgstr ""
+
+#: pb-element-portfolio.php:287
+msgid "Excerpt Number"
+msgstr ""
+
+#: pb-element-portfolio.php:298
+msgid "Image Overlay Color"
+msgstr ""
+
+#: pb-element-portfolio.php:302
+msgid "Image Overlay Opacity"
+msgstr ""
+
+#: pb-element-portfolio.php:304
+msgid "Fill the number between 0 to 1"
+msgstr ""
+
+#: pb-element-portfolio.php:305
+msgid "You need to specify the \"Image Overlay Color\" to use this option"
+msgstr ""
+
+#: pb-element-portfolio.php:313
+msgid "Portfolio Title Font Size"
+msgstr ""
+
+#: pb-element-portfolio.php:318
+msgid "Portfolio Title Font Weight"
+msgstr ""
+
+#: pb-element-portfolio.php:320 pb-element-portfolio.php:347
+msgid "Eg. lighter, bold, normal, 300, 400, 600, 700, 800"
+msgstr ""
+
+#: pb-element-portfolio.php:323
+msgid "Portfolio Title Letter Spacing"
+msgstr ""
+
+#: pb-element-portfolio.php:328
+msgid "Portfolio Title Text Transform"
+msgstr ""
+
+#: pb-element-portfolio.php:332 pb-element-portfolio.php:359
+msgid "Uppercase"
+msgstr ""
+
+#: pb-element-portfolio.php:333 pb-element-portfolio.php:360
+msgid "Lowercase"
+msgstr ""
+
+#: pb-element-portfolio.php:334 pb-element-portfolio.php:361
+msgid "Capitalize"
+msgstr ""
+
+#: pb-element-portfolio.php:340
+msgid "Portfolio Hover Title Font Size"
+msgstr ""
+
+#: pb-element-portfolio.php:345
+msgid "Portfolio Hover Title Font Weight"
+msgstr ""
+
+#: pb-element-portfolio.php:350
+msgid "Portfolio Hover Title Letter Spacing"
+msgstr ""
+
+#: pb-element-portfolio.php:355
+msgid "Portfolio Hover Title Text Transform"
+msgstr ""
+
+#: pb-element-portfolio.php:372
+msgid "Filter Bottom Margin ( If Any )"
+msgstr ""
+
+#: pb-element-portfolio.php:375
+msgid "Leave this field blank for default value"
+msgstr ""
+
+#: pb-element-portfolio.php:378
+msgid "Padding Bottom ( Item )"
+msgstr ""
+
+#: portfolio-item.php:258
+msgid "Settings variable is not defined."
+msgstr ""
+
+#: portfolio-slider-widget.php:21
+msgid "Portfolio Slider Widget ( Goodlayers )"
+msgstr ""
+
+#: portfolio-slider-widget.php:22
+msgid "A widget that show latest portfolio"
+msgstr ""
+
+#: portfolio-slider-widget.php:116 recent-portfolio-widget.php:105
+msgid "Display Number"
+msgstr ""
+
+#: portfolio-style.php:403
+msgid "View Details"
+msgstr ""
+
+#: recent-portfolio-widget.php:21
+msgid "Recent Portfolio Widget ( Goodlayers )"
+msgstr ""
+
+#: recent-portfolio-widget.php:22
+msgid "A widget that show latest portfolio as slider"
+msgstr ""
+
+#: single-portfolio.php:60
+msgid "Related Projects"
+msgstr ""
+
+#: single-portfolio.php:101
+msgid "Prev"
+msgstr ""
+
+#: single-portfolio.php:106
+msgid "Next"
+msgstr ""

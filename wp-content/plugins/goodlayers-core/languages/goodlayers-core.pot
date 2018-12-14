@@ -1,0 +1,4901 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers Core\n"
+"POT-Creation-Date: 2017-07-05 01:06+0700\n"
+"PO-Revision-Date: 2016-06-25 00:04+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugins/combine/script.js:13
+msgid "button"
+msgstr ""
+
+#: framework/function/customizer-controls.php:64
+#: framework/function/getting-start.php:257
+#: framework/function/getting-start.php:358
+#: framework/function/html-option.php:43 framework/function/html-option.php:294
+msgid "On"
+msgstr ""
+
+#: framework/function/customizer-controls.php:66
+#: framework/function/getting-start.php:260
+#: framework/function/getting-start.php:360
+#: framework/function/html-option.php:44 framework/function/html-option.php:296
+msgid "Off"
+msgstr ""
+
+#: framework/function/file-system.php:46
+msgid "Cannot Generate Custom File"
+msgstr ""
+
+#: framework/function/file-system.php:47
+msgid ""
+"Please try changing the style-custom.css file permission to 775 or 777 for "
+"this."
+msgstr ""
+
+#: framework/function/file-system.php:63 framework/function/file-system.php:72
+#: framework/function/file-system.php:92 framework/function/file-system.php:102
+#: framework/function/getting-start.php:58
+#: framework/function/html-option.php:35
+#: framework/function/page-builder.php:108
+#: framework/function/sidebar-generator.php:118
+#: framework/function/theme-option.php:95
+msgid "An error occurs"
+msgstr ""
+
+#: framework/function/file-system.php:64 framework/function/file-system.php:93
+msgid ""
+"Cannot obtain WP_Filesystem credentials, please contact the administrator."
+msgstr ""
+
+#: framework/function/file-system.php:73
+msgid "Cannot write file, please contact the administrator."
+msgstr ""
+
+#: framework/function/file-system.php:103
+msgid "Cannot read file, please contact the administrator."
+msgstr ""
+
+#: framework/function/font-loader.php:76
+msgid "=== Custom Font ==="
+msgstr ""
+
+#: framework/function/font-loader.php:88
+msgid "=== Web Safe Font ==="
+msgstr ""
+
+#: framework/function/font-loader.php:96
+msgid "=== Google Font ==="
+msgstr ""
+
+#: framework/function/font-loader.php:252
+msgid "Sample Text"
+msgstr ""
+
+#: framework/function/getting-start.php:18
+#: framework/function/getting-start.php:19
+#: framework/function/theme-option.php:37
+#: framework/function/theme-option.php:38
+msgid "Goodlayers Option"
+msgstr ""
+
+#: framework/function/getting-start.php:59
+msgid ""
+"Please try again. If the problem still persists, please contact "
+"administrator for this."
+msgstr ""
+
+#: framework/function/getting-start.php:62
+msgid "Importing demo content. Please wait..."
+msgstr ""
+
+#: framework/function/getting-start.php:63
+msgid ""
+"If you choose to download images from demo site, it can take up to 7-8 "
+"minutes so please be patient."
+msgstr ""
+
+#: framework/function/getting-start.php:175
+msgid "Select Demo"
+msgstr ""
+
+#: framework/function/getting-start.php:191
+msgid "View Demo"
+msgstr ""
+
+#: framework/function/getting-start.php:201
+msgid "Import Settings"
+msgstr ""
+
+#: framework/function/getting-start.php:207
+msgid "Include menu navigation"
+msgstr ""
+
+#: framework/function/getting-start.php:212
+msgid "Include blog posts content from the demo"
+msgstr ""
+
+#: framework/function/getting-start.php:217
+msgid "Include portfolio posts from the demo"
+msgstr ""
+
+#: framework/function/getting-start.php:222
+msgid "Download images from demo site"
+msgstr ""
+
+#: framework/function/getting-start.php:222
+msgid "read conditions"
+msgstr ""
+
+#: framework/function/getting-start.php:224
+msgid ""
+"Some of images being used in demo site are under license, so if you're using "
+"them in final produce, make sure that you purchase them. Images links are "
+"contained in the main package that you downloaded from Themeforest. It's in "
+"the folder 'Demo Stuffs > Image Links'. If any images are not contained in "
+"the list means that you can use them freely as they're under CC0 license."
+msgstr ""
+
+#: framework/function/getting-start.php:225
+msgid "Close"
+msgstr ""
+
+#: framework/function/getting-start.php:231
+msgid "Import theme options"
+msgstr ""
+
+#: framework/function/getting-start.php:231
+msgid "Noted that the current theme option will be overridden"
+msgstr ""
+
+#: framework/function/getting-start.php:236
+msgid "Import widget (sidebar & footer)"
+msgstr ""
+
+#: framework/function/getting-start.php:239
+msgid "Start Import Demo!"
+msgstr ""
+
+#: framework/function/getting-start.php:249
+msgid "System Status"
+msgstr ""
+
+#: framework/function/getting-start.php:254
+msgid "Debug Mode"
+msgstr ""
+
+#: framework/function/getting-start.php:258
+msgid "You should turn debug mode off when you make your site live"
+msgstr ""
+
+#: framework/function/getting-start.php:267
+msgid "PHP Version"
+msgstr ""
+
+#: framework/function/getting-start.php:279
+msgid "wp_max_upload_size"
+msgstr ""
+
+#: framework/function/getting-start.php:290
+msgid "upload_max_filesize"
+msgstr ""
+
+#: framework/function/getting-start.php:298
+msgid "post_max_size"
+msgstr ""
+
+#: framework/function/getting-start.php:306
+msgid "max_execution_time"
+msgstr ""
+
+#: framework/function/getting-start.php:311
+msgid "Recommend to be over 300 for demo import process"
+msgstr ""
+
+#: framework/function/getting-start.php:318
+msgid "memory_limit"
+msgstr ""
+
+#: framework/function/getting-start.php:324
+msgid "Recommend to be 512M for demo import process"
+msgstr ""
+
+#: framework/function/getting-start.php:331
+msgid "max_input_vars"
+msgstr ""
+
+#: framework/function/getting-start.php:336
+msgid "Recommend value is 4000 for full demo import process"
+msgstr ""
+
+#: framework/function/getting-start.php:343
+msgid "default_socket_timeout"
+msgstr ""
+
+#: framework/function/getting-start.php:355
+msgid "suhosin"
+msgstr ""
+
+#: framework/function/getting-start.php:369
+msgid "suhosin.post.max_vars"
+msgstr ""
+
+#: framework/function/getting-start.php:377
+msgid "suhosin.request.max_vars"
+msgstr ""
+
+#: framework/function/getting-start.php:388
+msgid ""
+"You can change these values by editing php.ini file directly. Or you can ask "
+"your hosting provider to do it for you."
+msgstr ""
+
+#: framework/function/html-option.php:36
+#: framework/function/page-builder.php:109
+#: framework/function/sidebar-generator.php:119
+#: framework/function/theme-option.php:96
+msgid ""
+"Please refresh the page to try again. If the problem still persists, please "
+"contact administrator for this."
+msgstr ""
+
+#: framework/function/html-option.php:38
+msgid "Select or Upload Media"
+msgstr ""
+
+#: framework/function/html-option.php:39
+msgid "Use this media"
+msgstr ""
+
+#: framework/function/html-option.php:42
+msgid "Item's Title"
+msgstr ""
+
+#: framework/function/html-option.php:47
+msgid "Skin Name"
+msgstr ""
+
+#: framework/function/html-option.php:48
+msgid "Please fill the name in skin name box to create new skin."
+msgstr ""
+
+#: framework/function/html-option.php:49
+msgid ""
+"This skin name has already been assigned, please try filling another name."
+msgstr ""
+
+#: framework/function/html-option.php:50
+msgid ""
+"* Please fill english character for skin name with no special characters. "
+"The skin you're created can be used in Color/Background Wrapper Section"
+msgstr ""
+
+#: framework/function/html-option.php:53
+msgid "You don't have any font uploaded"
+msgstr ""
+
+#: framework/function/html-option.php:54
+msgid "Font Name"
+msgstr ""
+
+#: framework/function/html-option.php:55
+msgid "Fill in font name in English"
+msgstr ""
+
+#: framework/function/html-option.php:56
+msgid "EOT Font"
+msgstr ""
+
+#: framework/function/html-option.php:57
+msgid "TTF Font"
+msgstr ""
+
+#: framework/function/html-option.php:58
+#: include/pb/pb-element-column-service.php:54
+#: include/pb/pb-element-feature-box.php:44
+#: include/pb/pb-element-flipbox.php:45 include/pb/pb-element-flipbox.php:256
+msgid "Upload"
+msgstr ""
+
+#: framework/function/html-option.php:61
+msgid "Thumbnail Name"
+msgstr ""
+
+#: framework/function/html-option.php:62
+msgid "Width (px)"
+msgstr ""
+
+#: framework/function/html-option.php:63
+msgid "Height (px)"
+msgstr ""
+
+#: framework/function/html-option.php:64
+msgid "Add Thumbnail"
+msgstr ""
+
+#: framework/function/html-option.php:65
+msgid "Please fill all required fields"
+msgstr ""
+
+#: framework/function/html-option.php:66
+msgid ""
+"*After creating new thumbnail, you have to regenerate the thumbnail for old "
+"images."
+msgstr ""
+
+#: framework/function/html-option.php:67
+msgid "We recommend the 'ONet Regenerate thumbnails' plugin for this process."
+msgstr ""
+
+#: framework/function/html-option.php:160
+msgid "Create Skin"
+msgstr ""
+
+#: framework/function/html-option.php:246 framework/function/media.php:613
+#: framework/function/media.php:640 framework/function/media.php:681
+#: include/pb-plugins/pb-element-product.php:143
+#: include/pb/pb-element-blog.php:82 include/pb/pb-element-button.php:318
+#: include/pb/pb-element-gallery.php:104 include/pb/pb-element-gallery.php:216
+#: include/pb/pb-element-image.php:83 include/pb/pb-element-port-info.php:82
+#: include/pb/pb-element-post-slider.php:106
+#: include/pb/pb-element-testimonial.php:138
+msgid "Default"
+msgstr ""
+
+#: framework/function/html-option.php:555 framework/function/media.php:43
+#: framework/function/media.php:624 framework/function/skin-settings.php:56
+#: include/pb-plugins/pb-element-product.php:121
+#: include/pb-plugins/pb-element-product.php:133
+#: include/pb-plugins/pb-element-product.php:188
+#: include/pb-wrapper/pb-wrapper-background.php:51
+#: include/pb-wrapper/pb-wrapper-background.php:224
+#: include/pb-wrapper/pb-wrapper-column.php:45
+#: include/pb-wrapper/pb-wrapper-column.php:111
+#: include/pb-wrapper/pb-wrapper-column.php:222
+#: include/pb-wrapper/pb-wrapper-sidebar.php:63
+#: include/pb/pb-element-blog.php:72 include/pb/pb-element-blog.php:218
+#: include/pb/pb-element-blog.php:303 include/pb/pb-element-button.php:72
+#: include/pb/pb-element-button.php:217 include/pb/pb-element-button.php:319
+#: include/pb/pb-element-call-to-action.php:114
+#: include/pb/pb-element-column-service.php:31
+#: include/pb/pb-element-column-service.php:136
+#: include/pb/pb-element-counter.php:31 include/pb/pb-element-counter.php:122
+#: include/pb/pb-element-feature-box.php:195
+#: include/pb/pb-element-flipbox.php:199 include/pb/pb-element-flipbox.php:358
+#: include/pb/pb-element-gallery.php:41 include/pb/pb-element-gallery.php:88
+#: include/pb/pb-element-gallery.php:203 include/pb/pb-element-gallery.php:248
+#: include/pb/pb-element-icon-list.php:101 include/pb/pb-element-icon.php:57
+#: include/pb/pb-element-icon.php:87 include/pb/pb-element-image.php:45
+#: include/pb/pb-element-post-slider.php:95
+#: include/pb/pb-element-social-share.php:66
+#: include/pb/pb-element-testimonial.php:126
+#: include/pb/pb-element-testimonial.php:163 include/pb/pb-element-title.php:86
+msgid "None"
+msgstr ""
+
+#: framework/function/html-option.php:557
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/function/html-option.php:558
+msgid "Elegant Font"
+msgstr ""
+
+#: framework/function/html-option.php:562
+msgid "Search Icons"
+msgstr ""
+
+#: framework/function/html-option.php:612
+msgid "Import"
+msgstr ""
+
+#: framework/function/html-option.php:634
+msgid "Export"
+msgstr ""
+
+#: framework/function/html-option.php:734
+#: framework/function/page-builder-custom-template.php:93
+#: framework/function/page-builder-custom-template.php:129
+#: framework/function/page-builder-custom-template.php:164
+#: framework/function/page-builder-element.php:144
+#: framework/function/page-builder-template.php:89
+#: framework/function/page-builder-wrapper.php:120
+#: framework/function/page-builder.php:334
+#: framework/function/page-builder.php:364
+#: framework/function/page-builder.php:494
+#: framework/function/sidebar-generator.php:163
+#: framework/function/sidebar-generator.php:204
+#: framework/function/theme-option.php:492
+#: framework/function/theme-option.php:523
+#: framework/function/theme-option.php:596
+#: framework/function/theme-option.php:654 framework/importer/importer.php:53
+msgid "Invalid Nonce"
+msgstr ""
+
+#: framework/function/html-option.php:735
+#: framework/function/page-builder-custom-template.php:94
+#: framework/function/page-builder-custom-template.php:130
+#: framework/function/page-builder-element.php:145
+#: framework/function/page-builder-template.php:90
+#: framework/function/page-builder-wrapper.php:121
+#: framework/function/page-builder.php:335
+#: framework/function/page-builder.php:365
+#: framework/function/page-builder.php:415
+#: framework/function/page-builder.php:525
+#: framework/function/sidebar-generator.php:164
+#: framework/function/sidebar-generator.php:183
+#: framework/function/sidebar-generator.php:205
+#: framework/function/sidebar-generator.php:225
+#: framework/function/sidebar-generator.php:232
+#: framework/function/theme-option.php:493
+#: framework/function/theme-option.php:524
+#: framework/function/theme-option.php:597
+#: framework/function/theme-option.php:655 framework/importer/importer.php:54
+#: framework/importer/importer.php:225 framework/importer/importer.php:234
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: framework/function/html-option.php:742
+#: framework/function/page-builder-element.php:47
+#: framework/function/page-builder-wrapper.php:51
+#: framework/function/page-builder.php:342
+#: framework/function/sidebar-generator.php:189
+#: framework/function/theme-option.php:500
+#: framework/function/theme-option.php:532
+#: framework/function/theme-option.php:604
+msgid "An Error Occurs"
+msgstr ""
+
+#: framework/function/html-option.php:743
+msgid "No options defined."
+msgstr ""
+
+#: framework/function/html-option.php:752
+msgid "Gallery Image Options"
+msgstr ""
+
+#: framework/function/html-option.php:767
+#: framework/function/page-builder-options.php:28
+#: framework/function/page-builder.php:397
+#: framework/function/theme-option.php:175
+#: framework/function/theme-option.php:241
+#: framework/function/theme-option.php:585
+msgid "Save Options"
+msgstr ""
+
+#: framework/function/media.php:44
+msgid "Fade In"
+msgstr ""
+
+#: framework/function/media.php:45
+msgid "Fade In Down"
+msgstr ""
+
+#: framework/function/media.php:46
+msgid "Fade In Up"
+msgstr ""
+
+#: framework/function/media.php:47
+msgid "Fade In Left"
+msgstr ""
+
+#: framework/function/media.php:48
+msgid "Fade In Right"
+msgstr ""
+
+#: framework/function/media.php:49
+msgid "Bounce"
+msgstr ""
+
+#: framework/function/media.php:50
+msgid "Pulse"
+msgstr ""
+
+#: framework/function/media.php:51
+msgid "Rubber Band"
+msgstr ""
+
+#: framework/function/media.php:52
+msgid "Shake"
+msgstr ""
+
+#: framework/function/media.php:53
+msgid "Swing"
+msgstr ""
+
+#: framework/function/media.php:557
+msgid "Title Align"
+msgstr ""
+
+#: framework/function/media.php:560 include/pb/pb-element-blog.php:142
+#: include/pb/pb-element-button.php:73 include/pb/pb-element-button.php:218
+msgid "Left"
+msgstr ""
+
+#: framework/function/media.php:561
+#: include/pb-wrapper/pb-wrapper-background.php:137
+#: include/pb-wrapper/pb-wrapper-column.php:145
+#: include/pb-wrapper/pb-wrapper-sidebar.php:131
+#: include/pb/pb-element-blog.php:143
+msgid "Center"
+msgstr ""
+
+#: framework/function/media.php:566 include/pb/pb-element-title.php:106
+msgid "Title Left Icon"
+msgstr ""
+
+#: framework/function/media.php:572
+#: include/pb-plugins/pb-element-product.php:60
+#: include/pb/pb-element-accordion.php:38
+#: include/pb/pb-element-alert-box.php:35 include/pb/pb-element-blog.php:55
+#: include/pb/pb-element-call-to-action.php:28
+#: include/pb/pb-element-column-service.php:59
+#: include/pb/pb-element-feature-box.php:49
+#: include/pb/pb-element-flipbox.php:50 include/pb/pb-element-flipbox.php:261
+#: include/pb/pb-element-instagram.php:28
+#: include/pb/pb-element-post-slider.php:50
+#: include/pb/pb-element-price-table.php:49
+#: include/pb/pb-element-promo-box.php:38
+#: include/pb/pb-element-stunning-text.php:33 include/pb/pb-element-tab.php:34
+#: include/pb/pb-element-testimonial.php:28
+#: include/pb/pb-element-timeline.php:38 include/pb/pb-element-title.php:15
+#: include/pb/pb-element-title.php:28 include/pb/pb-element-toggle-box.php:38
+#: include/widget/post-slider-widget.php:111
+#: include/widget/recent-post-widget.php:95
+msgid "Title"
+msgstr ""
+
+#: framework/function/media.php:576 include/pb/pb-element-call-to-action.php:33
+#: include/pb/pb-element-column-service.php:64
+#: include/pb/pb-element-feature-box.php:54
+#: include/pb/pb-element-flipbox.php:55 include/pb/pb-element-flipbox.php:266
+#: include/pb/pb-element-price-table.php:53
+#: include/pb/pb-element-stunning-text.php:28
+#: include/pb/pb-element-timeline.php:42 include/pb/pb-element-title.php:33
+msgid "Caption"
+msgstr ""
+
+#: framework/function/media.php:580 include/pb/pb-element-stunning-text.php:87
+#: include/pb/pb-element-title.php:38
+msgid "Caption Position"
+msgstr ""
+
+#: framework/function/media.php:583 include/pb/pb-element-stunning-text.php:90
+msgid "Above Title"
+msgstr ""
+
+#: framework/function/media.php:584 include/pb/pb-element-stunning-text.php:91
+msgid "Below Title"
+msgstr ""
+
+#: framework/function/media.php:588 include/pb/pb-element-column-service.php:74
+msgid "Read More Text"
+msgstr ""
+
+#: framework/function/media.php:590 include/pb/blog-style.php:79
+#: include/pb/pb-element-column-service.php:76
+#: include/pb/pb-element-column-service.php:254
+msgid "Read More"
+msgstr ""
+
+#: framework/function/media.php:593 include/pb/pb-element-column-service.php:79
+msgid "Read More Link"
+msgstr ""
+
+#: framework/function/media.php:597
+msgid "Read More Target"
+msgstr ""
+
+#: framework/function/media.php:600 include/pb/pb-element-button.php:62
+#: include/pb/pb-element-button.php:207
+#: include/pb/pb-element-call-to-action.php:51
+#: include/pb/pb-element-feature-box.php:94
+#: include/pb/pb-element-flipbox.php:95 include/pb/pb-element-gallery.php:77
+#: include/pb/pb-element-icon-list.php:53 include/pb/pb-element-image.php:74
+#: include/pb/pb-element-price-table.php:76
+#: include/pb/pb-element-stunning-text.php:57
+#: include/pb/pb-element-title.php:67
+msgid "Current Screen"
+msgstr ""
+
+#: framework/function/media.php:601 include/pb/pb-element-button.php:63
+#: include/pb/pb-element-button.php:208
+#: include/pb/pb-element-call-to-action.php:52
+#: include/pb/pb-element-feature-box.php:95
+#: include/pb/pb-element-flipbox.php:96 include/pb/pb-element-gallery.php:78
+#: include/pb/pb-element-icon-list.php:54 include/pb/pb-element-image.php:75
+#: include/pb/pb-element-price-table.php:77
+#: include/pb/pb-element-stunning-text.php:58
+#: include/pb/pb-element-title.php:68
+msgid "New Window"
+msgstr ""
+
+#: framework/function/media.php:605 include/pb/pb-element-call-to-action.php:96
+#: include/pb/pb-element-column-service.php:115
+#: include/pb/pb-element-feature-box.php:117
+#: include/pb/pb-element-flipbox.php:134 include/pb/pb-element-flipbox.php:309
+#: include/pb/pb-element-instagram.php:93
+#: include/pb/pb-element-promo-box.php:102
+#: include/pb/pb-element-stunning-text.php:101
+#: include/pb/pb-element-testimonial.php:154
+msgid "Title Size"
+msgstr ""
+
+#: framework/function/media.php:610 include/pb/pb-element-title.php:183
+msgid "Title Font Style"
+msgstr ""
+
+#: framework/function/media.php:614 framework/function/media.php:641
+#: include/pb/pb-element-column-service.php:48
+#: include/pb/pb-element-title.php:186 include/pb/pb-element-title.php:216
+#: include/pb/pb-element-type-animation.php:85
+msgid "Normal"
+msgstr ""
+
+#: framework/function/media.php:615 framework/function/media.php:642
+#: include/pb/pb-element-title.php:187 include/pb/pb-element-title.php:217
+#: include/pb/pb-element-type-animation.php:86
+msgid "Italic"
+msgstr ""
+
+#: framework/function/media.php:620
+#: include/pb/pb-element-call-to-action.php:111
+#: include/pb/pb-element-column-service.php:130
+#: include/pb/pb-element-testimonial.php:159
+msgid "Title Text Transform"
+msgstr ""
+
+#: framework/function/media.php:625
+#: include/pb-plugins/pb-element-product.php:189
+#: include/pb/pb-element-blog.php:304 include/pb/pb-element-button.php:320
+#: include/pb/pb-element-call-to-action.php:115
+#: include/pb/pb-element-column-service.php:133
+#: include/pb/pb-element-counter.php:119
+#: include/pb/pb-element-testimonial.php:164
+msgid "Uppercase"
+msgstr ""
+
+#: framework/function/media.php:626
+#: include/pb-plugins/pb-element-product.php:190
+#: include/pb/pb-element-blog.php:305 include/pb/pb-element-button.php:321
+#: include/pb/pb-element-call-to-action.php:116
+#: include/pb/pb-element-column-service.php:134
+#: include/pb/pb-element-counter.php:120
+#: include/pb/pb-element-testimonial.php:165
+msgid "Lowercase"
+msgstr ""
+
+#: framework/function/media.php:627
+#: include/pb-plugins/pb-element-product.php:191
+#: include/pb/pb-element-blog.php:306 include/pb/pb-element-button.php:322
+#: include/pb/pb-element-call-to-action.php:117
+#: include/pb/pb-element-column-service.php:135
+#: include/pb/pb-element-counter.php:121
+#: include/pb/pb-element-testimonial.php:166
+msgid "Capitalize"
+msgstr ""
+
+#: framework/function/media.php:632
+#: include/pb/pb-element-call-to-action.php:122
+#: include/pb/pb-element-column-service.php:141
+#: include/pb/pb-element-feature-box.php:128
+#: include/pb/pb-element-flipbox.php:145 include/pb/pb-element-flipbox.php:320
+#: include/pb/pb-element-stunning-text.php:106
+#: include/pb/pb-element-testimonial.php:176
+msgid "Caption Size"
+msgstr ""
+
+#: framework/function/media.php:637 include/pb/pb-element-title.php:213
+msgid "Caption Font Style"
+msgstr ""
+
+#: framework/function/media.php:647
+#: include/pb/pb-element-column-service.php:151
+msgid "Read More Size"
+msgstr ""
+
+#: framework/function/media.php:652
+msgid "Title Left Icon Color"
+msgstr ""
+
+#: framework/function/media.php:656 include/pb/pb-element-alert-box.php:77
+#: include/pb/pb-element-feature-box.php:147
+#: include/pb/pb-element-flipbox.php:117 include/pb/pb-element-flipbox.php:292
+#: include/pb/pb-element-price-table.php:160
+#: include/pb/pb-element-price-table.php:225
+#: include/pb/pb-element-promo-box.php:117
+#: include/pb/pb-element-testimonial.php:192
+#: include/pb/pb-element-title.php:242
+msgid "Title Color"
+msgstr ""
+
+#: framework/function/media.php:660 include/pb/pb-element-feature-box.php:151
+#: include/pb/pb-element-flipbox.php:121 include/pb/pb-element-flipbox.php:296
+#: include/pb/pb-element-price-table.php:164
+#: include/pb/pb-element-price-table.php:229
+#: include/pb/pb-element-testimonial.php:196
+#: include/pb/pb-element-title.php:250
+msgid "Caption Color"
+msgstr ""
+
+#: framework/function/media.php:664
+msgid "Read More Color"
+msgstr ""
+
+#: framework/function/media.php:668
+msgid "Read More Divider Color"
+msgstr ""
+
+#: framework/function/media.php:673 include/pb/pb-element-instagram.php:104
+#: include/pb/pb-element-testimonial.php:222
+msgid "Title Wrap Bottom Margin"
+msgstr ""
+
+#: framework/function/media.php:678
+msgid "Title Carousel Nav Style (if any)"
+msgstr ""
+
+#: framework/function/media.php:682 include/pb/pb-element-testimonial.php:139
+msgid "Small Plain Style"
+msgstr ""
+
+#: framework/function/media.php:683 include/pb/pb-element-testimonial.php:140
+msgid "Plain Style"
+msgstr ""
+
+#: framework/function/media.php:684 include/pb/pb-element-testimonial.php:141
+msgid "Plain Circle Style"
+msgstr ""
+
+#: framework/function/media.php:685 include/pb/pb-element-testimonial.php:142
+msgid "Large Round Style"
+msgstr ""
+
+#: framework/function/media.php:686 include/pb/pb-element-testimonial.php:143
+msgid "Rectangle Style"
+msgstr ""
+
+#: framework/function/media.php:687 include/pb/pb-element-testimonial.php:144
+msgid "Large Rectangle Style"
+msgstr ""
+
+#: framework/function/navigation-menu.php:185
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/function/navigation-menu.php:189
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/function/navigation-menu.php:202
+msgid "sub item"
+msgstr ""
+
+#: framework/function/navigation-menu.php:234
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/function/navigation-menu.php:243
+msgid "URL"
+msgstr ""
+
+#: framework/function/navigation-menu.php:250
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/function/navigation-menu.php:256
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/function/navigation-menu.php:263
+msgid "Open link in a new tab"
+msgstr ""
+
+#: framework/function/navigation-menu.php:268
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/function/navigation-menu.php:274
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/function/navigation-menu.php:280
+msgid "Description"
+msgstr ""
+
+#: framework/function/navigation-menu.php:282
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/function/navigation-menu.php:290
+msgid "Move"
+msgstr ""
+
+#: framework/function/navigation-menu.php:291
+msgid "Up one"
+msgstr ""
+
+#: framework/function/navigation-menu.php:292
+msgid "Down one"
+msgstr ""
+
+#: framework/function/navigation-menu.php:295
+msgid "To the top"
+msgstr ""
+
+#: framework/function/navigation-menu.php:302
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/function/navigation-menu.php:315
+msgid "Remove"
+msgstr ""
+
+#: framework/function/navigation-menu.php:316
+msgid "Cancel"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:27
+msgid "Custom Templates"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:39
+msgid "Save Custom Template"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:44
+msgid "Template Name :"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:47
+#: framework/function/page-builder.php:271
+msgid "Save Template"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:52
+msgid "Undefined Template Name"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:53
+msgid "Please fill in the template name to proceed."
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:150
+msgid "Template Added"
+msgstr ""
+
+#: framework/function/page-builder-custom-template.php:165
+msgid "Unable to remove the template. Please refresh the page and try again."
+msgstr ""
+
+#: framework/function/page-builder-element.php:30
+msgid "Elements"
+msgstr ""
+
+#: framework/function/page-builder-element.php:48
+#: framework/function/page-builder-wrapper.php:52
+msgid "Could not identify an option's type."
+msgstr ""
+
+#: framework/function/page-builder-options.php:41
+msgid "Item Options"
+msgstr ""
+
+#: framework/function/page-builder-options.php:47
+msgid "Elem ID :"
+msgstr ""
+
+#: framework/function/page-builder-options.php:49
+msgid "Elem Class :"
+msgstr ""
+
+#: framework/function/page-builder-template.php:20
+msgid "Templates"
+msgstr ""
+
+#: framework/function/page-builder-template.php:42
+msgid "Pre-Built Pages"
+msgstr ""
+
+#: framework/function/page-builder-template.php:43
+msgid "Pre-Built Blocks"
+msgstr ""
+
+#: framework/function/page-builder-wrapper.php:26
+msgid "Wrapper / Columns"
+msgstr ""
+
+#: framework/function/page-builder.php:68
+#: framework/function/page-builder.php:151
+msgid "Page Builder"
+msgstr ""
+
+#: framework/function/page-builder.php:106
+msgid "Item Added!"
+msgstr ""
+
+#: framework/function/page-builder.php:110
+msgid "Unable to undo changes"
+msgstr ""
+
+#: framework/function/page-builder.php:111
+msgid "Unable to redo changes"
+msgstr ""
+
+#: framework/function/page-builder.php:199
+#: framework/function/page-builder.php:294
+msgid "Edit"
+msgstr ""
+
+#: framework/function/page-builder.php:200
+#: framework/function/page-builder.php:295
+msgid "Preview"
+msgstr ""
+
+#: framework/function/page-builder.php:204
+msgid "Save PB"
+msgstr ""
+
+#: framework/function/page-builder.php:266
+msgid "Reset"
+msgstr ""
+
+#: framework/function/page-builder.php:281
+msgid "Block Mode"
+msgstr ""
+
+#: framework/function/page-builder.php:284
+msgid "Preview Mode"
+msgstr ""
+
+#: framework/function/page-builder.php:288
+msgid "Live Mode"
+msgstr ""
+
+#: framework/function/page-builder.php:317
+msgid "Tip"
+msgstr ""
+
+#: framework/function/page-builder.php:318
+msgid ""
+"Do you know you can also use double click to edit the item in live edit/"
+"preview mode ?"
+msgstr ""
+
+#: framework/function/page-builder.php:319
+msgid "Dismiss"
+msgstr ""
+
+#: framework/function/page-builder.php:343
+msgid "Could not locate an option's template."
+msgstr ""
+
+#: framework/function/page-builder.php:374
+msgid "Skin Options"
+msgstr ""
+
+#: framework/function/page-builder.php:385
+msgid "Skin Settings"
+msgstr ""
+
+#: framework/function/page-builder.php:414
+#: framework/function/page-builder.php:524
+msgid "Invalid Nonce ( Cannot update skin )"
+msgstr ""
+
+#: framework/function/page-builder.php:439
+#: framework/function/page-builder.php:537
+msgid "Empty Input Data"
+msgstr ""
+
+#: framework/function/page-builder.php:440
+msgid "Please try updating the skin again."
+msgstr ""
+
+#: framework/function/page-builder.php:495
+#: framework/function/page-builder.php:503
+msgid "Please use wordpress update button to update the page instead."
+msgstr ""
+
+#: framework/function/page-builder.php:502
+msgid "Invalid Post Data"
+msgstr ""
+
+#: framework/function/page-builder.php:514
+msgid "Successfully Save"
+msgstr ""
+
+#: framework/function/page-builder.php:538
+msgid "Something went wrong, please try contacting the administrator."
+msgstr ""
+
+#: framework/function/page-option.php:38 framework/function/page-option.php:56
+#: framework/function/page-option.php:82
+msgid "Page Options"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:36
+msgid "Footer 1"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:36
+msgid "Footer Column 1"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:37
+msgid "Footer 2"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:37
+msgid "Footer Column 2"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:38
+msgid "Footer 3"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:38
+msgid "Footer Column 3"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:39
+msgid "Footer 4"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:39
+msgid "Footer Column 4"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:77
+msgid "Preset"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:79
+msgid "Another Custom widget area"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:96
+msgid "Custom widget area"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:121
+msgid "Create New Widget Area"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:122
+msgid "Add"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:182
+msgid "Save Failed"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:190
+msgid "Please assign the sidebar name and try again."
+msgstr ""
+
+#: framework/function/sidebar-generator.php:224
+msgid "Operation Failed"
+msgstr ""
+
+#: framework/function/sidebar-generator.php:231
+msgid "Cannot Retrieve Sidebar Name"
+msgstr ""
+
+#: framework/function/theme-option.php:35
+msgid "Goodlayers"
+msgstr ""
+
+#: framework/function/theme-option.php:131
+msgid "Search"
+msgstr ""
+
+#: framework/function/theme-option.php:189
+msgid "Search Options"
+msgstr ""
+
+#: framework/function/theme-option.php:190
+msgid "Please fill keywords to search"
+msgstr ""
+
+#: framework/function/theme-option.php:501
+msgid "No variable for saving process, please refresh the page to try again."
+msgstr ""
+
+#: framework/function/theme-option.php:510
+msgid "Options Saved!"
+msgstr ""
+
+#: framework/function/theme-option.php:533
+#: framework/function/theme-option.php:605
+msgid ""
+"Unable to obtain the tab variable, please refresh the page to try again."
+msgstr ""
+
+#: framework/function/theme-option.php:577
+msgid "No results match the keyword"
+msgstr ""
+
+#: framework/function/theme-option.php:578
+msgid "Please try again."
+msgstr ""
+
+#: framework/function/utility.php:25
+msgid "Just to confirm"
+msgstr ""
+
+#: framework/function/utility.php:26
+msgid "Are you sure to do this ?"
+msgstr ""
+
+#: framework/function/utility.php:27
+msgid "* Please noted that this could not be undone."
+msgstr ""
+
+#: framework/function/utility.php:28
+msgid "Yes"
+msgstr ""
+
+#: framework/function/utility.php:29
+msgid "No"
+msgstr ""
+
+#: framework/function/utility.php:63
+msgid "full size"
+msgstr ""
+
+#: framework/function/utility.php:274 framework/function/utility.php:567
+#: framework/function/utility.php:580
+#: include/pb-plugins/pb-element-product.php:49
+msgid "All"
+msgstr ""
+
+#: framework/function/utility.php:538
+#: include/pb-plugins/pb-element-product.php:135
+#: include/pb/pb-element-blog.php:74
+msgid "Load More"
+msgstr ""
+
+#: framework/importer/importer.php:72
+msgid "Invalid nonce for process :"
+msgstr ""
+
+#: framework/importer/importer.php:176
+msgid "demo successfully imported"
+msgstr ""
+
+#: framework/importer/importer.php:180
+msgid "Importing images. Please wait..."
+msgstr ""
+
+#: framework/importer/importer.php:224
+msgid "File parse Error"
+msgstr ""
+
+#: framework/importer/importer.php:233
+msgid "File not exists"
+msgstr ""
+
+#: framework/importer/importer.php:556
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/importer/importer.php:603
+#, php-format
+msgid "Remote server returned error response %1$d %2$s for %3$s"
+msgstr ""
+
+#: framework/importer/importer.php:610
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/importer/importer.php:615
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/importer/importer.php:725
+msgid "The given object ID is not that of a menu item."
+msgstr ""
+
+#: framework/importer/importer.php:730
+msgid "Invalid menu ID."
+msgstr ""
+
+#: framework/importer/parsers.php:43 framework/importer/parsers.php:75
+#: framework/importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/importer/parsers.php:87 framework/importer/parsers.php:92
+#: framework/importer/parsers.php:284 framework/importer/parsers.php:471
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:15
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:25
+#: include/pb-plugins/pb-element-layer-slider.php:25
+#: include/pb-plugins/pb-element-master-slider.php:25
+#: include/pb-plugins/pb-element-newsletter.php:25
+#: include/pb-plugins/pb-element-product.php:25
+#: include/pb-plugins/pb-element-revolution-slider.php:25
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:25
+#: include/pb-wrapper/pb-wrapper-background.php:23
+#: include/pb-wrapper/pb-wrapper-column.php:28
+#: include/pb-wrapper/pb-wrapper-sidebar.php:23
+#: include/pb/pb-element-accordion.php:25
+#: include/pb/pb-element-alert-box.php:25 include/pb/pb-element-audio.php:25
+#: include/pb/pb-element-blockquote.php:25 include/pb/pb-element-blog.php:25
+#: include/pb/pb-element-call-to-action.php:25
+#: include/pb/pb-element-code.php:25
+#: include/pb/pb-element-column-service.php:25
+#: include/pb/pb-element-columnize.php:25
+#: include/pb/pb-element-countdown.php:25 include/pb/pb-element-counter.php:25
+#: include/pb/pb-element-divider.php:25
+#: include/pb/pb-element-feature-box.php:25
+#: include/pb/pb-element-icon-list.php:25 include/pb/pb-element-icon.php:25
+#: include/pb/pb-element-image.php:25 include/pb/pb-element-instagram.php:25
+#: include/pb/pb-element-opening-hours.php:25
+#: include/pb/pb-element-port-info.php:25
+#: include/pb/pb-element-post-slider.php:25
+#: include/pb/pb-element-price-table.php:32
+#: include/pb/pb-element-promo-box.php:25
+#: include/pb/pb-element-skill-bar.php:25
+#: include/pb/pb-element-skill-circle.php:25
+#: include/pb/pb-element-social-network.php:25
+#: include/pb/pb-element-social-share.php:25
+#: include/pb/pb-element-stunning-text.php:25 include/pb/pb-element-tab.php:25
+#: include/pb/pb-element-testimonial.php:25
+#: include/pb/pb-element-text-box.php:25
+#: include/pb/pb-element-text-script.php:25
+#: include/pb/pb-element-timeline.php:25 include/pb/pb-element-title.php:25
+#: include/pb/pb-element-toggle-box.php:25
+#: include/pb/pb-element-type-animation.php:25
+#: include/pb/pb-element-video.php:25 include/pb/pb-element-widget.php:25
+msgid "General"
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:28
+msgid "Choose Contact Form"
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:38
+#: include/pb-plugins/pb-element-newsletter.php:43
+#: include/pb-plugins/pb-element-product.php:201
+#: include/pb/pb-element-accordion.php:94
+#: include/pb/pb-element-alert-box.php:99 include/pb/pb-element-audio.php:38
+#: include/pb/pb-element-blockquote.php:65 include/pb/pb-element-blog.php:316
+#: include/pb/pb-element-columnize.php:74
+#: include/pb/pb-element-countdown.php:96 include/pb/pb-element-counter.php:132
+#: include/pb/pb-element-divider.php:109
+#: include/pb/pb-element-feature-box.php:237
+#: include/pb/pb-element-flipbox.php:162
+msgid "Padding Bottom"
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:79
+msgid ""
+"Please install and activate the \"<a target=\"_blank\" href=\"https://"
+"wordpress.org/plugins/contact-form-7/\" >Contact form 7</a>\" plugin to show "
+"the contact form."
+msgstr ""
+
+#: include/pb-plugins/pb-element-contact-form-7.php:82
+msgid "Please choose the contact form you want to display."
+msgstr ""
+
+#: include/pb-plugins/pb-element-layer-slider.php:15
+msgid "Layer Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-layer-slider.php:28
+msgid "Choose Layer Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-layer-slider.php:38
+#: include/pb-plugins/pb-element-master-slider.php:38
+#: include/pb-plugins/pb-element-revolution-slider.php:38
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:44
+#: include/pb/pb-element-button.php:348
+#: include/pb/pb-element-call-to-action.php:137
+#: include/pb/pb-element-code.php:53 include/pb/pb-element-gallery.php:281
+#: include/pb/pb-element-icon-list.php:151 include/pb/pb-element-icon.php:121
+#: include/pb/pb-element-image.php:196 include/pb/pb-element-instagram.php:110
+#: include/pb/pb-element-opening-hours.php:133
+#: include/pb/pb-element-port-info.php:138
+#: include/pb/pb-element-post-slider.php:117
+#: include/pb/pb-element-price-table.php:278
+#: include/pb/pb-element-promo-box.php:130
+#: include/pb/pb-element-skill-bar.php:118
+#: include/pb/pb-element-skill-circle.php:98
+#: include/pb/pb-element-social-network.php:168
+#: include/pb/pb-element-social-share.php:134
+#: include/pb/pb-element-stunning-text.php:126
+#: include/pb/pb-element-tab.php:116 include/pb/pb-element-testimonial.php:233
+#: include/pb/pb-element-text-box.php:57
+#: include/pb/pb-element-text-script.php:57
+#: include/pb/pb-element-timeline.php:83 include/pb/pb-element-title.php:273
+#: include/pb/pb-element-toggle-box.php:93
+#: include/pb/pb-element-type-animation.php:119
+#: include/pb/pb-element-video.php:65 include/pb/pb-element-widget.php:38
+#: include/pb/pb-element-wordpress-editor-content.php:27
+msgid "Padding Bottom ( Item )"
+msgstr ""
+
+#: include/pb-plugins/pb-element-layer-slider.php:79
+msgid ""
+"Please install and activate the \"Layer Slider\" plugin to show the slides."
+msgstr ""
+
+#: include/pb-plugins/pb-element-layer-slider.php:81
+msgid "Please select the id of the layer slider you created."
+msgstr ""
+
+#: include/pb-plugins/pb-element-master-slider.php:15
+msgid "Master Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-master-slider.php:28
+msgid "Choose Master Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-master-slider.php:79
+msgid ""
+"Please install and activate the \"Master Slider\" plugin to show the slides."
+msgstr ""
+
+#: include/pb-plugins/pb-element-master-slider.php:81
+msgid "Please select the id of the master slider you created."
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:15
+msgid "Newsletter"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:28
+#: include/pb/pb-element-call-to-action.php:62
+#: include/pb/pb-element-code.php:39 include/pb/pb-element-gallery.php:130
+#: include/pb/pb-element-image.php:114
+#: include/pb/pb-element-opening-hours.php:89
+#: include/pb/pb-element-social-share.php:82 include/pb/pb-element-title.php:74
+msgid "Style"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:31
+#: include/pb-plugins/pb-element-product.php:145
+#: include/pb/pb-element-blog.php:84 include/pb/pb-element-gallery.php:106
+#: include/pb/pb-element-image.php:135 include/pb/pb-element-skill-bar.php:42
+msgid "Rectangle"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:32
+msgid "Rectangle Full"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:33
+#: include/pb-plugins/pb-element-product.php:147
+#: include/pb/pb-element-blog.php:86 include/pb/pb-element-gallery.php:108
+#: include/pb/pb-element-icon-list.php:102 include/pb/pb-element-icon.php:58
+#: include/pb/pb-element-image.php:136
+msgid "Round"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:34
+msgid "Curve"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:40
+#: include/pb-wrapper/pb-wrapper-background.php:271
+#: include/pb-wrapper/pb-wrapper-column.php:269
+#: include/pb/pb-element-audio.php:35
+msgid "Spacing"
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:85
+msgid ""
+"Please install and activate the \"<a target=\"_blank\" href=\"https://"
+"wordpress.org/plugins/newsletter/\" >Newsletter</a>\" plugin to show the "
+"form."
+msgstr ""
+
+#: include/pb-plugins/pb-element-newsletter.php:119
+msgid "Your Email Address"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:15
+msgid "Product (Woocommerce)"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:28
+#: include/pb/pb-element-blog.php:28 include/pb/pb-element-blog.php:265
+#: include/pb/pb-element-post-slider.php:28
+#: include/pb/pb-element-post-slider.php:78
+#: include/widget/post-slider-widget.php:118
+#: include/widget/recent-post-widget.php:102
+msgid "Category"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:31
+#: include/pb/pb-element-blog.php:31 include/pb/pb-element-post-slider.php:31
+msgid ""
+"You can use Ctrl/Command button to select multiple items or remove the "
+"selected item. Leave this field blank to select all items in the list."
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:34
+#: include/pb/pb-element-blog.php:34 include/pb/pb-element-blog.php:266
+#: include/pb/pb-element-post-slider.php:34
+#: include/pb/pb-element-post-slider.php:79
+msgid "Tag"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:39
+#: include/pb/pb-element-blog.php:39 include/pb/pb-element-post-slider.php:39
+msgid "Num Fetch"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:43
+msgid "The number of posts showing on the product item"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:46
+msgid "Stock Status"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:50
+msgid "In Stock"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:51
+msgid "Out of Stock"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:52
+msgid "On Request"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:56
+#: include/pb/pb-element-blog.php:51 include/pb/pb-element-post-slider.php:46
+msgid "Order By"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:59
+#: include/pb/pb-element-blog.php:54 include/pb/pb-element-post-slider.php:49
+msgid "Publish Date"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:61
+#: include/pb/pb-element-blog.php:56 include/pb/pb-element-post-slider.php:51
+msgid "Random"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:62
+#: include/pb/pb-element-blog.php:57
+msgid "Menu Order"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:66
+#: include/pb/pb-element-blog.php:61 include/pb/pb-element-post-slider.php:55
+msgid "Order"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:69
+#: include/pb/pb-element-blog.php:64 include/pb/pb-element-post-slider.php:58
+msgid "Descending Order"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:70
+#: include/pb/pb-element-blog.php:65 include/pb/pb-element-post-slider.php:59
+msgid "Ascending Order"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:80
+#: include/pb/pb-element-blog.php:166 include/pb/pb-element-gallery.php:258
+#: include/pb/pb-element-image.php:32 include/pb/pb-element-instagram.php:80
+#: include/pb/pb-element-post-slider.php:68
+#: include/pb/pb-element-promo-box.php:32
+#: include/widget/post-slider-widget.php:133
+msgid "Thumbnail Size"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:85
+#: include/pb/pb-element-blog.php:178
+msgid "Thumbnail Zoom on Hover"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:90
+#: include/pb/pb-element-blog.php:184
+msgid "Enable Thumbnail Grayscale Effect"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:93
+#: include/pb/pb-element-blog.php:188
+msgid ""
+"Only works with browser that supports css3 filter ( http://caniuse.com/"
+"#feat=css-filters )."
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:96
+#: include/pb/pb-element-blog.php:191
+msgid "Column Size"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:102
+#: include/pb/pb-element-blog.php:198 include/pb/pb-element-gallery.php:189
+#: include/pb/pb-element-instagram.php:58
+msgid "Layout"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:105
+#: include/pb/pb-element-blog.php:201 include/pb/pb-element-gallery.php:192
+msgid "Fit Rows"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:106
+#: include/pb/pb-element-blog.php:202 include/pb/pb-element-gallery.php:193
+#: include/pb/pb-element-instagram.php:63
+msgid "Carousel"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:107
+#: include/pb/pb-element-blog.php:203 include/pb/pb-element-gallery.php:194
+msgid "Masonry"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:112
+#: include/pb/pb-element-blog.php:209 include/pb/pb-element-gallery.php:239
+#: include/pb/pb-element-instagram.php:68
+#: include/pb/pb-element-testimonial.php:117
+msgid "Autoslide Carousel"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:118
+#: include/pb/pb-element-blog.php:215 include/pb/pb-element-testimonial.php:123
+msgid "Carousel Navigation"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:122
+#: include/pb/pb-element-blog.php:219 include/pb/pb-element-gallery.php:204
+#: include/pb/pb-element-gallery.php:249
+#: include/pb/pb-element-post-slider.php:96
+#: include/pb/pb-element-testimonial.php:127
+msgid "Only Navigation"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:123
+#: include/pb/pb-element-blog.php:220 include/pb/pb-element-gallery.php:206
+#: include/pb/pb-element-gallery.php:251
+#: include/pb/pb-element-post-slider.php:97
+#: include/pb/pb-element-testimonial.php:128
+msgid "Only Bullet"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:124
+#: include/pb/pb-element-blog.php:221 include/pb/pb-element-gallery.php:207
+#: include/pb/pb-element-gallery.php:252
+#: include/pb/pb-element-post-slider.php:98
+#: include/pb/pb-element-testimonial.php:129
+msgid "Both Navigation and Bullet"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:130
+#: include/pb/pb-element-blog.php:69 include/pb/pb-element-gallery.php:85
+msgid "Pagination"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:134
+#: include/pb/pb-element-blog.php:73 include/pb/pb-element-gallery.php:89
+msgid "Page"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:137
+#: include/pb/pb-element-blog.php:76
+msgid ""
+"Pagination is not supported and will be automatically disabled on carousel "
+"layout."
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:140
+#: include/pb/pb-element-blog.php:79 include/pb/pb-element-gallery.php:101
+msgid "Pagination Style"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:144
+#: include/pb/pb-element-blog.php:83 include/pb/pb-element-gallery.php:105
+msgid "Plain"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:146
+#: include/pb/pb-element-blog.php:85 include/pb/pb-element-gallery.php:107
+msgid "Rectangle Border"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:148
+#: include/pb/pb-element-blog.php:87 include/pb/pb-element-gallery.php:109
+msgid "Round Border"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:149
+#: include/pb/pb-element-blog.php:88 include/pb/pb-element-gallery.php:110
+#: include/pb/pb-element-icon-list.php:103 include/pb/pb-element-icon.php:59
+#: include/pb/pb-element-image.php:137
+msgid "Circle"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:150
+#: include/pb/pb-element-blog.php:89 include/pb/pb-element-gallery.php:111
+msgid "Circle Border"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:156
+#: include/pb/pb-element-blog.php:95 include/pb/pb-element-gallery.php:117
+msgid "Pagination Alignment"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:169
+msgid "Product Title Font Size"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:174
+msgid "Product Title Font Weight"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:176
+#: include/pb/pb-element-blog.php:291
+#: include/pb/pb-element-call-to-action.php:103
+#: include/pb/pb-element-column-service.php:122
+#: include/pb/pb-element-countdown.php:53
+#: include/pb/pb-element-countdown.php:63
+#: include/pb/pb-element-feature-box.php:125
+#: include/pb/pb-element-flipbox.php:142 include/pb/pb-element-flipbox.php:317
+#: include/pb/pb-element-title.php:180
+#: include/pb/pb-element-type-animation.php:79
+msgid "Eg. lighter, bold, normal, 300, 400, 600, 700, 800"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:179
+msgid "Product Title Letter Spacing"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:184
+msgid "Product Title Text Transform"
+msgstr ""
+
+#: include/pb-plugins/pb-element-product.php:284
+msgid ""
+"Please install and activate the \"Woocommerce\" plugin before using this "
+"item."
+msgstr ""
+
+#: include/pb-plugins/pb-element-revolution-slider.php:15
+msgid "Revolution Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-revolution-slider.php:28
+msgid "Choose Revolution Slider"
+msgstr ""
+
+#: include/pb-plugins/pb-element-revolution-slider.php:79
+msgid ""
+"Please install and activate the \"Revolution Slider\" plugin to show the "
+"slides."
+msgstr ""
+
+#: include/pb-plugins/pb-element-revolution-slider.php:81
+msgid "Please select the id of the revolution slider you created."
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:15
+msgid "Wp Google Map Plugin"
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:28
+msgid "Choose Map ( WP GOOGLE MAP PLUGIN )"
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:33
+msgid "Choose Map ( WP GOOGLE MAPS ) "
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:36
+msgid ""
+"This option will be ignored if you select the map from wp-google-map-plugins"
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:86
+msgid ""
+"Please install and activate the \"<a target=\"_blank\" href=\"https://"
+"wordpress.org/plugins/wp-google-map-plugin/\" >Wp Google Map Plugin</a>\" or "
+"\"<a target=\"_blank\" href=\"https://wordpress.org/plugins/wp-google-maps/"
+"\" >Wp Google Maps</a>\" plugin to show the map."
+msgstr ""
+
+#: include/pb-plugins/pb-element-wp-google-map-plugin.php:89
+msgid "Please choose the maps you want to display."
+msgstr ""
+
+#: include/pb-plugins/product-item.php:240 include/pb/blog-item.php:262
+#: include/pb/pb-element-gallery.php:686
+msgid "Settings variable is not defined."
+msgstr ""
+
+#: include/pb-plugins/product-style.php:44
+msgid "View Details"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:14
+#: include/pb-wrapper/pb-wrapper-background.php:443
+msgid "Wrapper"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:26
+#: include/pb-wrapper/pb-wrapper-sidebar.php:26
+msgid "Content Layout"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:29
+#: include/pb-wrapper/pb-wrapper-sidebar.php:29
+msgid "Boxed ( content stays within container area )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:30
+#: include/pb-wrapper/pb-wrapper-sidebar.php:30
+msgid "Full"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:31
+msgid "Custom Width"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:35
+#: include/pb-wrapper/pb-wrapper-column.php:31
+#: include/pb/pb-element-image.php:117
+msgid "Max Width"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:38
+msgid "Maximum width of this wrapper item."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:42
+msgid "Allow Item Padding ( default left / right spaces )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:48
+#: include/pb-wrapper/pb-wrapper-column.php:42
+#: include/pb-wrapper/pb-wrapper-sidebar.php:60
+msgid "Hide This Wrapper In"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:52
+#: include/pb-wrapper/pb-wrapper-column.php:46
+#: include/pb-wrapper/pb-wrapper-sidebar.php:64
+msgid "Desktop"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:53
+#: include/pb-wrapper/pb-wrapper-column.php:47
+#: include/pb-wrapper/pb-wrapper-sidebar.php:65
+msgid "Desktop & Tablet"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:54
+#: include/pb-wrapper/pb-wrapper-column.php:48
+#: include/pb-wrapper/pb-wrapper-sidebar.php:66
+msgid "Tablet"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:55
+#: include/pb-wrapper/pb-wrapper-column.php:49
+#: include/pb-wrapper/pb-wrapper-sidebar.php:67
+msgid "Tablet & Mobile"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:56
+#: include/pb-wrapper/pb-wrapper-column.php:50
+#: include/pb-wrapper/pb-wrapper-sidebar.php:68
+msgid "Mobile"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:60
+#: include/pb-wrapper/pb-wrapper-column.php:54
+msgid "Animation"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:66
+#: include/pb-wrapper/pb-wrapper-column.php:60
+msgid "Animation Location"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:69
+#: include/pb-wrapper/pb-wrapper-column.php:63
+msgid "The location of the object which the animation take places."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:70
+#: include/pb-wrapper/pb-wrapper-column.php:64
+msgid "Fill 0 : Animation will start when the item reach the top of the screen"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:71
+#: include/pb-wrapper/pb-wrapper-column.php:65
+msgid ""
+"Fill 1 : Animation will start when the item is at the bottom of the screen."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:79
+#: include/pb-wrapper/pb-wrapper-column.php:73
+msgid "Full Height Wrapper"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:82
+#: include/pb-wrapper/pb-wrapper-column.php:76
+msgid "Effects will only be shown at the front end of the site"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:85
+#: include/pb-wrapper/pb-wrapper-column.php:79
+msgid "Decrease Height Of Full Height"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:92
+msgid "Center Content At The Middle"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:98
+#: include/pb-wrapper/pb-wrapper-column.php:96
+#: include/pb-wrapper/pb-wrapper-sidebar.php:93
+msgid "Background Type"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:101
+#: include/pb-wrapper/pb-wrapper-column.php:99
+#: include/pb-wrapper/pb-wrapper-sidebar.php:96
+msgid "Color"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:102
+#: include/pb-wrapper/pb-wrapper-column.php:100
+#: include/pb-wrapper/pb-wrapper-sidebar.php:97
+#: include/pb/pb-element-column-service.php:33
+#: include/pb/pb-element-divider.php:45
+#: include/pb/pb-element-feature-box.php:32
+#: include/pb/pb-element-flipbox.php:32 include/pb/pb-element-flipbox.php:243
+#: include/pb/pb-element-image.php:15 include/pb/pb-element-promo-box.php:28
+#: include/pb/pb-element-title.php:88
+msgid "Image"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:103
+#: include/pb-wrapper/pb-wrapper-column.php:101
+#: include/pb-wrapper/pb-wrapper-sidebar.php:98
+msgid "Video ( Youtube & Vimeo )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:104
+#: include/pb-wrapper/pb-wrapper-column.php:102
+#: include/pb-wrapper/pb-wrapper-sidebar.php:99
+msgid "Html5 Video"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:105
+#: include/pb-wrapper/pb-wrapper-column.php:103
+#: include/pb-wrapper/pb-wrapper-sidebar.php:100
+msgid "Pattern"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:110
+#: include/pb-wrapper/pb-wrapper-column.php:118
+#: include/pb-wrapper/pb-wrapper-sidebar.php:105
+#: include/pb/pb-element-alert-box.php:85
+#: include/pb/pb-element-feature-box.php:159
+#: include/pb/pb-element-flipbox.php:183 include/pb/pb-element-flipbox.php:342
+msgid "Background Color"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:113
+#: include/pb-wrapper/pb-wrapper-column.php:121
+msgid "Can also be use as a base color of an image (with opacity) as well."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:116
+#: include/pb-wrapper/pb-wrapper-column.php:124
+#: include/pb-wrapper/pb-wrapper-sidebar.php:110
+#: include/pb/pb-element-feature-box.php:182
+#: include/pb/pb-element-flipbox.php:187 include/pb/pb-element-flipbox.php:346
+msgid "Background Image"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:121
+#: include/pb-wrapper/pb-wrapper-column.php:129
+#: include/pb-wrapper/pb-wrapper-sidebar.php:115
+msgid "Background Image Style"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:124
+#: include/pb-wrapper/pb-wrapper-column.php:132
+#: include/pb-wrapper/pb-wrapper-sidebar.php:118
+msgid "Cover ( full width and height )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:125
+#: include/pb-wrapper/pb-wrapper-column.php:133
+#: include/pb-wrapper/pb-wrapper-sidebar.php:119
+msgid "No Repeat"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:126
+#: include/pb-wrapper/pb-wrapper-column.php:134
+#: include/pb-wrapper/pb-wrapper-sidebar.php:120
+msgid "Repeat X & Y"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:127
+#: include/pb-wrapper/pb-wrapper-column.php:135
+#: include/pb-wrapper/pb-wrapper-sidebar.php:121
+msgid "Repeat X"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:128
+#: include/pb-wrapper/pb-wrapper-column.php:136
+#: include/pb-wrapper/pb-wrapper-sidebar.php:122
+msgid "Repeat Y"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:134
+#: include/pb-wrapper/pb-wrapper-column.php:142
+#: include/pb-wrapper/pb-wrapper-sidebar.php:128
+msgid "Background Image Position"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:138
+#: include/pb-wrapper/pb-wrapper-column.php:146
+#: include/pb-wrapper/pb-wrapper-sidebar.php:132
+msgid "Top Left"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:139
+#: include/pb-wrapper/pb-wrapper-column.php:147
+#: include/pb-wrapper/pb-wrapper-sidebar.php:133
+msgid "Top Center"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:140
+#: include/pb-wrapper/pb-wrapper-column.php:148
+#: include/pb-wrapper/pb-wrapper-sidebar.php:134
+msgid "Top Right"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:141
+#: include/pb-wrapper/pb-wrapper-column.php:149
+#: include/pb-wrapper/pb-wrapper-sidebar.php:135
+msgid "Center Left"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:142
+#: include/pb-wrapper/pb-wrapper-column.php:150
+#: include/pb-wrapper/pb-wrapper-sidebar.php:136
+msgid "Center Right"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:143
+#: include/pb-wrapper/pb-wrapper-column.php:151
+#: include/pb-wrapper/pb-wrapper-sidebar.php:137
+msgid "Bottom Left"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:144
+#: include/pb-wrapper/pb-wrapper-column.php:152
+#: include/pb-wrapper/pb-wrapper-sidebar.php:138
+msgid "Bottom Center"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:145
+#: include/pb-wrapper/pb-wrapper-column.php:153
+#: include/pb-wrapper/pb-wrapper-sidebar.php:139
+msgid "Bottom Right"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:151
+#: include/pb-wrapper/pb-wrapper-column.php:159
+#: include/pb-wrapper/pb-wrapper-sidebar.php:145
+msgid "Background Video URL"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:156
+#: include/pb-wrapper/pb-wrapper-column.php:164
+#: include/pb-wrapper/pb-wrapper-sidebar.php:150
+#: include/pb/pb-element-video.php:45
+msgid "Background Video URL (MP4)"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:161
+#: include/pb-wrapper/pb-wrapper-column.php:169
+#: include/pb-wrapper/pb-wrapper-sidebar.php:155
+#: include/pb/pb-element-video.php:50
+msgid "Background Video URL (WEBM)"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:166
+#: include/pb-wrapper/pb-wrapper-column.php:174
+#: include/pb-wrapper/pb-wrapper-sidebar.php:160
+#: include/pb/pb-element-video.php:55
+msgid "Background Video URL (ogg)"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:171
+#: include/pb-wrapper/pb-wrapper-column.php:179
+#: include/pb-wrapper/pb-wrapper-sidebar.php:165
+msgid "Background Image Fallback"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:174
+#: include/pb-wrapper/pb-wrapper-column.php:182
+#: include/pb-wrapper/pb-wrapper-sidebar.php:168
+msgid ""
+"This background will be showing up when the device you're using cannot "
+"render the video as background ( eg. mobile device )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:177
+#: include/pb-wrapper/pb-wrapper-column.php:185
+#: include/pb-wrapper/pb-wrapper-sidebar.php:171
+msgid "Background Pattern"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:185
+#: include/pb-wrapper/pb-wrapper-column.php:193
+#: include/pb/pb-element-feature-box.php:186
+#: include/pb/pb-element-flipbox.php:191 include/pb/pb-element-flipbox.php:350
+msgid "Background Opacity"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:189
+#: include/pb-wrapper/pb-wrapper-background.php:196
+#: include/pb-wrapper/pb-wrapper-column.php:197
+#: include/pb-wrapper/pb-wrapper-sidebar.php:183
+msgid "Fill the number between 0 to 1"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:192
+#: include/pb-wrapper/pb-wrapper-sidebar.php:179
+msgid "Pattern Opacity"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:199
+#: include/pb-wrapper/pb-wrapper-column.php:207
+#: include/pb-wrapper/pb-wrapper-sidebar.php:186
+msgid "Parallax Speed"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:203
+#: include/pb-wrapper/pb-wrapper-column.php:211
+#: include/pb-wrapper/pb-wrapper-sidebar.php:190
+msgid ""
+"Fill the number between -1 to 1, ( value 1 equals to background-attachment: "
+"fixed )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:206
+msgid "Content Overflow"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:209
+msgid "Visible"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:210
+msgid "Hidden"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:213
+msgid ""
+"Set to hidden to cut the content which flowing out of this wrapper. * "
+"Effects will only apply to front end of the site."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:221
+#: include/pb-wrapper/pb-wrapper-column.php:219
+#: include/pb/pb-element-feature-box.php:192
+#: include/pb/pb-element-flipbox.php:196 include/pb/pb-element-flipbox.php:355
+msgid "Border Type"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:225
+#: include/pb-wrapper/pb-wrapper-column.php:223
+#: include/pb/pb-element-feature-box.php:196
+#: include/pb/pb-element-flipbox.php:200 include/pb/pb-element-flipbox.php:359
+msgid "Outer Border"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:226
+#: include/pb-wrapper/pb-wrapper-column.php:224
+msgid "Inner Border"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:231
+#: include/pb-wrapper/pb-wrapper-column.php:229
+msgid "Spaces Before Inner Border"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:239
+#: include/pb-wrapper/pb-wrapper-column.php:237
+#: include/pb/pb-element-alert-box.php:62
+#: include/pb/pb-element-feature-box.php:202
+#: include/pb/pb-element-flipbox.php:211 include/pb/pb-element-flipbox.php:370
+#: include/pb/pb-element-icon.php:95 include/pb/pb-element-image.php:148
+msgid "Border Width"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:247
+#: include/pb-wrapper/pb-wrapper-column.php:245
+#: include/pb/pb-element-alert-box.php:89
+#: include/pb/pb-element-columnize.php:58
+#: include/pb/pb-element-feature-box.php:163
+#: include/pb/pb-element-flipbox.php:206 include/pb/pb-element-flipbox.php:365
+#: include/pb/pb-element-image.php:169
+msgid "Border Color"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:253
+#: include/pb-wrapper/pb-wrapper-column.php:251
+msgid "Border Style"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:256
+#: include/pb-wrapper/pb-wrapper-column.php:254
+msgid "solid"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:257
+#: include/pb-wrapper/pb-wrapper-column.php:255
+msgid "dotted"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:258
+#: include/pb-wrapper/pb-wrapper-column.php:256
+msgid "dashed"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:259
+#: include/pb-wrapper/pb-wrapper-column.php:257
+msgid "double"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:260
+#: include/pb-wrapper/pb-wrapper-column.php:258
+msgid "groove"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:261
+#: include/pb-wrapper/pb-wrapper-column.php:259
+msgid "ridge"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:262
+#: include/pb-wrapper/pb-wrapper-column.php:260
+msgid "inset"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:263
+#: include/pb-wrapper/pb-wrapper-column.php:261
+msgid "outset"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:274
+#: include/pb-wrapper/pb-wrapper-column.php:272
+msgid "Padding Spaces"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:279
+#: include/pb-wrapper/pb-wrapper-column.php:277
+#: include/pb-wrapper/pb-wrapper-sidebar.php:90
+#: include/pb-wrapper/pb-wrapper-sidebar.php:208
+msgid ""
+"Spaces before/after the item inside it. ( including the background area )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:282
+#: include/pb-wrapper/pb-wrapper-column.php:280
+#: include/pb-wrapper/pb-wrapper-sidebar.php:72
+msgid "Margin Spaces"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:287
+#: include/pb-wrapper/pb-wrapper-column.php:285
+#: include/pb-wrapper/pb-wrapper-sidebar.php:77
+msgid "Spaces before/after this wrapper. ( outside the background area )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:292
+#: include/pb-wrapper/pb-wrapper-column.php:290
+msgid "Custom Skin"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-background.php:295
+#: include/pb-wrapper/pb-wrapper-column.php:293
+#: include/pb-wrapper/pb-wrapper-sidebar.php:193
+msgid "Skin"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:34
+msgid "Maximum width of this item. Leave blank for full size."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:37
+msgid "Min Height"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:85
+#: include/pb/pb-element-feature-box.php:172
+msgid "Sync Height"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:88
+#: include/pb/pb-element-feature-box.php:174
+#: include/pb/pb-element-flipbox.php:175
+msgid ""
+"Use to sync the height among an items with the same keyword. The height will "
+"be fixed so be cautious not to use it on item with dynamic height."
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:91
+msgid ""
+"Positioning Content In The Middle Of This Item ( When sync hieght / Full "
+"height is being used )"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:108
+msgid "Background Extending"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:112
+msgid "Extend Left"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:113
+msgid "Extend Right"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-column.php:200
+#: include/pb/pb-element-feature-box.php:210
+#: include/pb/pb-element-flipbox.php:219 include/pb/pb-element-flipbox.php:378
+#: include/pb/pb-element-icon.php:72 include/pb/pb-element-image.php:141
+msgid "Border Radius"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:14
+#: include/pb-wrapper/pb-wrapper-sidebar.php:242
+msgid "Sidebar Wrapper"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:34
+msgid "Sidebar"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:42
+msgid "Sidebar Left"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:48
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:54
+msgid "Sidebar Width"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:85
+msgid "Content Padding Spaces"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:203
+msgid "Sidebar Padding Spaces"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:211
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: include/pb-wrapper/pb-wrapper-sidebar.php:215
+msgid "Sidebar Skin"
+msgstr ""
+
+#: include/pb/blog-style.php:241 include/pb/blog-style.php:246
+msgid "Sticky Post"
+msgstr ""
+
+#: include/pb/blog-style.php:314
+msgid "no comments"
+msgstr ""
+
+#: include/pb/blog-style.php:315
+msgid "one comment"
+msgstr ""
+
+#: include/pb/blog-style.php:316
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:15
+msgid "Accordion"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:28
+msgid "Add Accordion Tab"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:34
+msgid "Heax Text"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:42
+#: include/pb/pb-element-alert-box.php:40
+#: include/pb/pb-element-blockquote.php:28 include/pb/pb-element-code.php:28
+#: include/pb/pb-element-column-service.php:68
+#: include/pb/pb-element-columnize.php:34
+#: include/pb/pb-element-feature-box.php:59
+#: include/pb/pb-element-flipbox.php:60 include/pb/pb-element-flipbox.php:271
+#: include/pb/pb-element-icon-list.php:42
+#: include/pb/pb-element-price-table.php:61
+#: include/pb/pb-element-promo-box.php:43
+#: include/pb/pb-element-stunning-text.php:38 include/pb/pb-element-tab.php:38
+#: include/pb/pb-element-testimonial.php:57
+#: include/pb/pb-element-text-box.php:28
+#: include/pb/pb-element-text-script.php:28
+#: include/pb/pb-element-timeline.php:46
+#: include/pb/pb-element-toggle-box.php:42
+msgid "Content"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:48
+#: include/pb/pb-element-accordion.php:52
+#: include/pb/pb-element-accordion.php:130
+#: include/pb/pb-element-accordion.php:134
+msgid "An Accordion Title"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:49
+#: include/pb/pb-element-accordion.php:53
+#: include/pb/pb-element-accordion.php:131
+#: include/pb/pb-element-accordion.php:135
+msgid "An accordion content area"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:58
+msgid "Initial Active Tab"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:62
+msgid ""
+"Fill the number of the initial active tab, starting with 1. Filling 0 to "
+"close all tabs at first."
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:65
+msgid "Allow Closing All Tabs"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:75
+msgid "Accordion Style"
+msgstr ""
+
+#: include/pb/pb-element-accordion.php:87
+#: include/pb/pb-element-alert-box.php:56
+#: include/pb/pb-element-blockquote.php:44
+#: include/pb/pb-element-feature-box.php:101
+#: include/pb/pb-element-flipbox.php:107 include/pb/pb-element-flipbox.php:282
+#: include/pb/pb-element-icon.php:39 include/pb/pb-element-post-slider.php:86
+#: include/pb/pb-element-promo-box.php:49
+#: include/pb/pb-element-social-network.php:125
+#: include/pb/pb-element-stunning-text.php:81
+#: include/pb/pb-element-text-box.php:34
+#: include/pb/pb-element-text-script.php:34 include/pb/pb-element-title.php:77
+#: include/pb/pb-element-toggle-box.php:81
+#: include/pb/pb-element-type-animation.php:48
+msgid "Text Align"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:15
+msgid "Alert Box"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:28
+#: include/pb/pb-element-column-service.php:32
+#: include/pb/pb-element-counter.php:32 include/pb/pb-element-divider.php:44
+#: include/pb/pb-element-divider.php:55
+#: include/pb/pb-element-feature-box.php:31
+#: include/pb/pb-element-feature-box.php:36
+#: include/pb/pb-element-flipbox.php:31 include/pb/pb-element-flipbox.php:37
+#: include/pb/pb-element-flipbox.php:242 include/pb/pb-element-flipbox.php:248
+#: include/pb/pb-element-icon-list.php:34 include/pb/pb-element-icon.php:15
+#: include/pb/pb-element-image.php:99 include/pb/pb-element-price-table.php:41
+#: include/pb/pb-element-skill-bar.php:58 include/pb/pb-element-title.php:87
+msgid "Icon"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:37
+#: include/pb/pb-element-alert-box.php:134
+msgid "Alert Box Item Title"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:42
+#: include/pb/pb-element-alert-box.php:135
+msgid "Alert box item sample content"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:51
+msgid "Removable ( Close Button )"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:73
+#: include/pb/pb-element-column-service.php:161
+#: include/pb/pb-element-divider.php:120
+#: include/pb/pb-element-feature-box.php:143
+#: include/pb/pb-element-flipbox.php:113 include/pb/pb-element-flipbox.php:288
+#: include/pb/pb-element-icon-list.php:107 include/pb/pb-element-icon.php:50
+#: include/pb/pb-element-opening-hours.php:120
+#: include/pb/pb-element-price-table.php:156
+#: include/pb/pb-element-price-table.php:221
+#: include/pb/pb-element-skill-bar.php:97
+#: include/pb/pb-element-social-network.php:153
+#: include/pb/pb-element-social-share.php:121
+msgid "Icon Color"
+msgstr ""
+
+#: include/pb/pb-element-alert-box.php:81
+#: include/pb/pb-element-feature-box.php:155
+#: include/pb/pb-element-flipbox.php:125 include/pb/pb-element-flipbox.php:300
+#: include/pb/pb-element-icon-list.php:116
+#: include/pb/pb-element-price-table.php:253
+#: include/pb/pb-element-promo-box.php:121
+#: include/pb/pb-element-testimonial.php:205
+msgid "Content Color"
+msgstr ""
+
+#: include/pb/pb-element-audio.php:15
+msgid "Audio"
+msgstr ""
+
+#: include/pb/pb-element-audio.php:28
+msgid "Audio URL"
+msgstr ""
+
+#: include/pb/pb-element-audio.php:90
+msgid "Please upload and fill the audio url to display the audio player."
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:15
+msgid "Blockquote"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:30
+#: include/pb/pb-element-blockquote.php:88
+msgid "Blockquote item sample content"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:34
+msgid "By ( Author )"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:36
+#: include/pb/pb-element-blockquote.php:89
+msgid "Blockquote Author"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:50
+msgid "Size"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:53 include/pb/pb-element-blog.php:230
+#: include/pb/pb-element-image.php:157
+#: include/pb/pb-element-skill-circle.php:31
+msgid "Small"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:54 include/pb/pb-element-image.php:158
+msgid "Medium"
+msgstr ""
+
+#: include/pb/pb-element-blockquote.php:55 include/pb/pb-element-blog.php:231
+#: include/pb/pb-element-image.php:159 include/pb/pb-element-instagram.php:84
+#: include/pb/pb-element-skill-circle.php:32
+msgid "Large"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:15
+msgid "Blog"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:43
+msgid "The number of posts showing on the blog item"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:46
+msgid "Prepend Sticky Post"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:48
+msgid "Prepend sticky post at the top of the post."
+msgstr ""
+
+#: include/pb/pb-element-blog.php:103
+msgid "Query Offset"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:108
+msgid "The number of posts you want to skip, cannot be used with pagination."
+msgstr ""
+
+#: include/pb/pb-element-blog.php:116
+msgid "Blog Style"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:138
+msgid "Blog Full Alignment"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:148
+msgid "Blog List With Frame"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:154
+msgid "Always Show Overlay Content"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:160
+msgid "Show Thumbnail"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:172
+msgid "Thumbnail Opacity on Hover"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:227 include/pb/pb-element-skill-circle.php:28
+msgid "Item Size"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:237
+msgid "Excerpt Type"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:240
+msgid "Specify Number"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:241
+msgid "Show All ( use <!--more--> tag to cut the content )"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:247
+msgid "Excerpt Number"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:254
+msgid "Enable Blog Date Feature"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:260 include/pb/pb-element-post-slider.php:73
+msgid "Meta Option"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:263 include/pb/pb-element-post-slider.php:76
+#: include/pb/pb-element-timeline.php:34
+msgid "Date"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:264 include/pb/pb-element-post-slider.php:77
+msgid "Author"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:267 include/pb/pb-element-post-slider.php:80
+msgid "Comment"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:268 include/pb/pb-element-post-slider.php:81
+msgid "Comment Number"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:273
+msgid "Show Read More Button"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:284
+msgid "Blog Title Font Size"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:289
+msgid "Blog Title Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:294
+msgid "Blog Title Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-blog.php:299
+msgid "Blog Title Text Transform"
+msgstr ""
+
+#: include/pb/pb-element-button.php:15
+msgid "Button"
+msgstr ""
+
+#: include/pb/pb-element-button.php:25
+msgid "Button 1"
+msgstr ""
+
+#: include/pb/pb-element-button.php:28
+#: include/pb/pb-element-call-to-action.php:38
+#: include/pb/pb-element-price-table.php:65
+#: include/pb/pb-element-stunning-text.php:44
+msgid "Button Text"
+msgstr ""
+
+#: include/pb/pb-element-button.php:30 include/pb/pb-element-button.php:371
+#: include/pb/pb-element-call-to-action.php:40
+#: include/pb/pb-element-call-to-action.php:173
+#: include/pb/pb-element-price-table.php:92
+#: include/pb/pb-element-price-table.php:103
+#: include/pb/pb-element-price-table.php:114
+#: include/pb/pb-element-price-table.php:125
+#: include/pb/pb-element-price-table.php:327
+#: include/pb/pb-element-price-table.php:338
+#: include/pb/pb-element-price-table.php:349
+#: include/pb/pb-element-price-table.php:360
+#: include/pb/pb-element-stunning-text.php:46
+#: include/pb/pb-element-stunning-text.php:152
+msgid "Learn More"
+msgstr ""
+
+#: include/pb/pb-element-button.php:33 include/pb/pb-element-feature-box.php:65
+#: include/pb/pb-element-flipbox.php:66
+msgid "Button Link To"
+msgstr ""
+
+#: include/pb/pb-element-button.php:36 include/pb/pb-element-button.php:182
+#: include/pb/pb-element-feature-box.php:68
+#: include/pb/pb-element-flipbox.php:69 include/pb/pb-element-gallery.php:40
+#: include/pb/pb-element-gallery.php:67 include/pb/pb-element-image.php:44
+#: include/pb/pb-element-image.php:66
+msgid "Custom Url"
+msgstr ""
+
+#: include/pb/pb-element-button.php:37 include/pb/pb-element-button.php:183
+#: include/pb/pb-element-feature-box.php:69
+#: include/pb/pb-element-flipbox.php:70 include/pb/pb-element-gallery.php:37
+#: include/pb/pb-element-image.php:41
+msgid "Lightbox with custom image"
+msgstr ""
+
+#: include/pb/pb-element-button.php:38 include/pb/pb-element-button.php:184
+#: include/pb/pb-element-feature-box.php:70
+#: include/pb/pb-element-flipbox.php:71 include/pb/pb-element-gallery.php:38
+#: include/pb/pb-element-image.php:42
+msgid "Video Lightbox"
+msgstr ""
+
+#: include/pb/pb-element-button.php:43 include/pb/pb-element-button.php:189
+#: include/pb/pb-element-feature-box.php:75
+#: include/pb/pb-element-flipbox.php:76 include/pb/pb-element-gallery.php:45
+#: include/pb/pb-element-image.php:50
+msgid "Upload Custom Image"
+msgstr ""
+
+#: include/pb/pb-element-button.php:48 include/pb/pb-element-button.php:194
+#: include/pb/pb-element-feature-box.php:80
+#: include/pb/pb-element-flipbox.php:81 include/pb/pb-element-gallery.php:52
+#: include/pb/pb-element-image.php:55
+msgid "Video Url ( Youtube / Vimeo )"
+msgstr ""
+
+#: include/pb/pb-element-button.php:53
+#: include/pb/pb-element-call-to-action.php:43
+#: include/pb/pb-element-price-table.php:69
+#: include/pb/pb-element-stunning-text.php:49
+msgid "Button Link"
+msgstr ""
+
+#: include/pb/pb-element-button.php:59
+#: include/pb/pb-element-call-to-action.php:48
+#: include/pb/pb-element-price-table.php:73
+#: include/pb/pb-element-stunning-text.php:54
+msgid "Button Link Target"
+msgstr ""
+
+#: include/pb/pb-element-button.php:69
+msgid "Icon Position"
+msgstr ""
+
+#: include/pb/pb-element-button.php:74 include/pb/pb-element-button.php:219
+#: include/pb/pb-element-title.php:43
+msgid "Right"
+msgstr ""
+
+#: include/pb/pb-element-button.php:78
+#: include/pb/pb-element-column-service.php:38
+msgid "Icon Selector"
+msgstr ""
+
+#: include/pb/pb-element-button.php:90
+msgid "Button Align"
+msgstr ""
+
+#: include/pb/pb-element-button.php:96
+msgid "Full Width Button"
+msgstr ""
+
+#: include/pb/pb-element-button.php:101 include/pb/pb-element-button.php:235
+msgid "Button Padding"
+msgstr ""
+
+#: include/pb/pb-element-button.php:108 include/pb/pb-element-button.php:242
+#: include/pb/pb-element-call-to-action.php:85
+msgid "Button Border Radius"
+msgstr ""
+
+#: include/pb/pb-element-button.php:114 include/pb/pb-element-button.php:248
+msgid "Button Background"
+msgstr ""
+
+#: include/pb/pb-element-button.php:117 include/pb/pb-element-button.php:251
+#: include/pb/pb-element-call-to-action.php:78
+msgid "Transparent"
+msgstr ""
+
+#: include/pb/pb-element-button.php:118 include/pb/pb-element-button.php:252
+#: include/pb/pb-element-call-to-action.php:79
+#: include/pb/pb-element-title.php:135
+msgid "Solid"
+msgstr ""
+
+#: include/pb/pb-element-button.php:119 include/pb/pb-element-button.php:253
+#: include/pb/pb-element-call-to-action.php:80
+msgid "Gradient"
+msgstr ""
+
+#: include/pb/pb-element-button.php:124 include/pb/pb-element-button.php:258
+msgid "Button Border"
+msgstr ""
+
+#: include/pb/pb-element-button.php:129 include/pb/pb-element-button.php:263
+msgid "Button Border Width"
+msgstr ""
+
+#: include/pb/pb-element-button.php:137 include/pb/pb-element-button.php:271
+#: include/pb/pb-element-price-table.php:196
+#: include/pb/pb-element-price-table.php:261
+msgid "Button Text Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:141 include/pb/pb-element-button.php:275
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:145 include/pb/pb-element-button.php:279
+#: include/pb/pb-element-price-table.php:200
+#: include/pb/pb-element-price-table.php:265
+msgid "Button Background Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:150 include/pb/pb-element-button.php:284
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:155 include/pb/pb-element-button.php:289
+msgid "Button Background Gradient Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:160 include/pb/pb-element-button.php:294
+msgid "Button Border Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:165 include/pb/pb-element-button.php:299
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: include/pb/pb-element-button.php:175
+msgid "Button 2 Text"
+msgstr ""
+
+#: include/pb/pb-element-button.php:179
+msgid "Button 2 Link To"
+msgstr ""
+
+#: include/pb/pb-element-button.php:199
+msgid "Button 2 Link"
+msgstr ""
+
+#: include/pb/pb-element-button.php:204
+msgid "Button 2 Link Target"
+msgstr ""
+
+#: include/pb/pb-element-button.php:214
+msgid "Button 2 Icon Position"
+msgstr ""
+
+#: include/pb/pb-element-button.php:223
+msgid "Button 2 Icon Selector"
+msgstr ""
+
+#: include/pb/pb-element-button.php:309
+msgid "Button Text Size"
+msgstr ""
+
+#: include/pb/pb-element-button.php:314
+msgid "Button Text Transform"
+msgstr ""
+
+#: include/pb/pb-element-button.php:326
+msgid "Button Icon Size"
+msgstr ""
+
+#: include/pb/pb-element-button.php:336
+msgid "Button 2 Left Margin"
+msgstr ""
+
+#: include/pb/pb-element-button.php:342
+msgid "Top Margin ( Item )"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:15
+msgid "Call To Action"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:30
+#: include/pb/pb-element-call-to-action.php:171
+msgid "Call To Action Item Title"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:35
+#: include/pb/pb-element-call-to-action.php:172
+msgid "Call to cation item caption"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:75
+msgid "Button Style"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:88
+msgid "Leave this field blank for default value"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:101
+#: include/pb/pb-element-column-service.php:120
+#: include/pb/pb-element-feature-box.php:122
+#: include/pb/pb-element-flipbox.php:139 include/pb/pb-element-flipbox.php:314
+#: include/pb/pb-element-title.php:177
+msgid "Title Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:106
+#: include/pb/pb-element-column-service.php:125
+#: include/pb/pb-element-testimonial.php:171
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-call-to-action.php:127
+msgid "Caption Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-code.php:15
+msgid "Code"
+msgstr ""
+
+#: include/pb/pb-element-code.php:30 include/pb/pb-element-code.php:75
+msgid "Code item sample content"
+msgstr ""
+
+#: include/pb/pb-element-code.php:42
+msgid "Light"
+msgstr ""
+
+#: include/pb/pb-element-code.php:43
+msgid "Dark"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:15
+msgid "Column Service"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:28
+#: include/pb/pb-element-feature-box.php:28
+#: include/pb/pb-element-flipbox.php:28 include/pb/pb-element-flipbox.php:239
+msgid "Media Type"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:45
+msgid "Icon Style"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:49
+msgid "Round Background"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:61
+#: include/pb/pb-element-column-service.php:251
+msgid "Column Service Title"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:70
+#: include/pb/pb-element-column-service.php:253
+msgid "Column service content area"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:89
+msgid "Column Service Style"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:110
+#: include/pb/pb-element-divider.php:83
+#: include/pb/pb-element-feature-box.php:112
+#: include/pb/pb-element-flipbox.php:129 include/pb/pb-element-flipbox.php:304
+#: include/pb/pb-element-icon-list.php:130 include/pb/pb-element-icon.php:45
+#: include/pb/pb-element-social-network.php:131
+#: include/pb/pb-element-social-share.php:107
+msgid "Icon Size"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:146
+#: include/pb/pb-element-feature-box.php:133
+#: include/pb/pb-element-flipbox.php:150 include/pb/pb-element-flipbox.php:325
+#: include/pb/pb-element-icon-list.php:135
+#: include/pb/pb-element-promo-box.php:107
+#: include/pb/pb-element-stunning-text.php:111
+#: include/pb/pb-element-testimonial.php:182
+msgid "Content Size"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:165
+#: include/pb/pb-element-icon-list.php:111 include/pb/pb-element-icon.php:79
+msgid "Icon Background Color"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:169
+msgid "Column Service Background Color"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:178
+msgid "Icon/Image Margin"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:183
+#: include/pb/pb-element-column-service.php:189
+#: include/pb/pb-element-timeline.php:80
+msgid "Leave this field blank for default value."
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:186
+msgid "Title Top Padding"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:192
+msgid "Title Bottom Margin"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:197
+msgid "Caption Top Margin"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:202
+msgid "Read More Top Margin"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:205
+msgid "The value will be added to the initial value ( 20px )"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:208
+msgid "Padding Spaces ( Inside Background )"
+msgstr ""
+
+#: include/pb/pb-element-column-service.php:216
+msgid "Padding Spaces ( Outside Background )"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:15
+msgid "Columnize"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:28 include/pb/pb-element-gallery.php:182
+#: include/pb/pb-element-instagram.php:74
+#: include/pb/pb-element-testimonial.php:101
+msgid "Column Number"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:36
+#: include/pb/pb-element-columnize.php:108
+msgid "Columnize item sample content"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:45 include/pb/pb-element-text-box.php:45
+#: include/pb/pb-element-text-script.php:45
+#: include/pb/pb-element-type-animation.php:70
+msgid "Font Size"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:49 include/pb/pb-element-text-box.php:49
+#: include/pb/pb-element-text-script.php:49
+#: include/pb/pb-element-type-animation.php:74
+msgid ""
+"Leaving this field blank will display the default font size from theme "
+"options"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:52
+msgid "Border Size"
+msgstr ""
+
+#: include/pb/pb-element-columnize.php:68
+msgid "Column Gap"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:15
+msgid "Countdown"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:29
+msgid "Select Date"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:34
+#: include/pb/pb-element-social-share.php:96
+msgid "Alignment"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:42
+msgid "Typography"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:45
+msgid "Number Font Size"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:50
+msgid "Number Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:56
+msgid "Text Font Size"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:61
+msgid "Text Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:71
+msgid "Number Font Color"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:75
+msgid "Text Font Color"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:84
+msgid "Space Between Counter Number ( left & right )"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:90
+msgid "Counter Text Top Margin"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:179
+msgid "Days"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:184
+msgid "Hours"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:189
+msgid "Mins"
+msgstr ""
+
+#: include/pb/pb-element-countdown.php:194
+msgid "Secs"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:15
+#: include/pb/pb-element-social-share.php:67
+msgid "Counter"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:28
+msgid "Top Text Type"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:33
+msgid "Text"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:37
+msgid "Top Icon"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:46
+msgid "Top Text"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:53
+msgid "Prefix"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:57
+msgid "Start Number"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:63
+msgid "End Number"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:69
+msgid "Number Animation Time"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:73
+msgid "Fill the animation time in milli-second"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:76
+msgid "Suffix"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:81 include/pb/pb-element-divider.php:15
+msgid "Divider"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:86
+msgid "Bottom Text"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:88 include/pb/pb-element-counter.php:166
+msgid "Counter caption"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:96
+msgid "Top Icon Size"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:101
+msgid "Top Text Size"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:106
+msgid "Number Size"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:111
+msgid "Bottom Text Size"
+msgstr ""
+
+#: include/pb/pb-element-counter.php:116
+msgid "Bottom Text Transform"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:28
+msgid "Divider Type"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:41
+msgid "Icon Type"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:50
+msgid "Upload Icon"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:63
+#: include/pb/pb-element-opening-hours.php:92
+msgid "Divider Style"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:76
+msgid "Divider Align"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:90
+msgid "Divider Size"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:95
+msgid "At least \"4px\" is required for double divider style"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:98
+msgid "Max Divider Width"
+msgstr ""
+
+#: include/pb/pb-element-divider.php:124
+#: include/pb/pb-element-icon-list.php:120
+#: include/pb/pb-element-opening-hours.php:124
+#: include/pb/pb-element-social-share.php:125
+msgid "Divider Color"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:15
+msgid "Featured Box"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:51
+#: include/pb/pb-element-feature-box.php:274
+msgid "Feature Box Item Title"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:56
+#: include/pb/pb-element-feature-box.php:275
+msgid "Feature Box Item Caption"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:61
+#: include/pb/pb-element-feature-box.php:276
+msgid "Feature Box item sample content"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:85
+#: include/pb/pb-element-flipbox.php:86
+msgid "Item Link URL"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:91
+#: include/pb/pb-element-flipbox.php:92
+msgid "Item Link Target"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:177
+#: include/pb/pb-element-flipbox.php:178
+msgid ""
+"Positioning Content In The Middle Of This Item ( When sync hieght is being "
+"used )"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:189
+#: include/pb/pb-element-image.php:188
+msgid "Fill the decimal number between 0 to 1"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:197
+#: include/pb/pb-element-flipbox.php:201 include/pb/pb-element-flipbox.php:360
+msgid "Inner border"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:217
+#: include/pb/pb-element-flipbox.php:226 include/pb/pb-element-flipbox.php:385
+#: include/pb/pb-element-icon.php:108
+msgid "Spaces Before Border"
+msgstr ""
+
+#: include/pb/pb-element-feature-box.php:230
+#: include/pb/pb-element-flipbox.php:155 include/pb/pb-element-flipbox.php:330
+msgid "Content Padding"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:15
+msgid "Flipbox"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:25
+msgid "Main (front)"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:52 include/pb/pb-element-flipbox.php:263
+#: include/pb/pb-element-flipbox.php:423 include/pb/pb-element-flipbox.php:429
+msgid "Flipbox Item Title"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:57 include/pb/pb-element-flipbox.php:268
+#: include/pb/pb-element-flipbox.php:424 include/pb/pb-element-flipbox.php:430
+msgid "Flipbox Item Caption"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:62 include/pb/pb-element-flipbox.php:273
+#: include/pb/pb-element-flipbox.php:425 include/pb/pb-element-flipbox.php:431
+msgid "Flipbox item sample content"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:173
+msgid "Sync Height ( With different items )"
+msgstr ""
+
+#: include/pb/pb-element-flipbox.php:236
+msgid "Main (back)"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:15 include/pb/pb-element-gallery.php:25
+msgid "Gallery"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:33 include/pb/pb-element-image.php:37
+msgid "Link To"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:36 include/pb/pb-element-image.php:40
+msgid "Lightbox with full image"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:39 include/pb/pb-element-image.php:43
+msgid "Specific Page"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:59 include/pb/pb-element-image.php:60
+msgid "Page Id"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:74 include/pb/pb-element-image.php:71
+msgid "Custom Link Target"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:92
+msgid ""
+"Pagination is not supported and will be automatically disabled on carousel/"
+"slider/scroll style."
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:95
+msgid "Show Amount ( Per Pages )"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:143
+msgid "Max Image Height"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:149
+msgid "Overlay"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:170
+msgid "Show Caption ( Under Images )"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:176
+msgid "Show Overlay Info On Hover"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:179
+msgid "Disable this option to always show the overlay info"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:200 include/pb/pb-element-gallery.php:245
+#: include/pb/pb-element-post-slider.php:92
+msgid "Slider Navigation"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:205 include/pb/pb-element-gallery.php:250
+msgid "Only ( Outer ) Navigation"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:213
+#: include/pb/pb-element-post-slider.php:103
+msgid "Slider Effects"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:217
+#: include/pb/pb-element-post-slider.php:107
+msgid "Kenburn"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:223
+msgid "Enable Direction Navigation"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:229
+msgid "Thumbnail Navigation Style"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:232
+msgid "Below Slider"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:233
+msgid "Inside Slider"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:263
+msgid "Slider ( Small ) Thumbnail Size"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:275
+msgid "Image Bottom Margin"
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:278
+msgid "Only for \"Grid\" and \"Stack Images\" style."
+msgstr ""
+
+#: include/pb/pb-element-gallery.php:497
+msgid "No image available. Please edit this item to select images."
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:15
+#: include/pb/pb-element-icon-list.php:28
+msgid "Icon List"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:38
+msgid "Icon Hover"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:46
+msgid "Link Url"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:50
+msgid "Link Target"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:62
+#: include/pb/pb-element-icon-list.php:67
+#: include/pb/pb-element-icon-list.php:72
+#: include/pb/pb-element-icon-list.php:188
+#: include/pb/pb-element-icon-list.php:193
+#: include/pb/pb-element-icon-list.php:198
+msgid "Default icon list text"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:77
+msgid "Columns"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:80
+msgid "1"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:81
+msgid "2"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:82
+msgid "3"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:83
+msgid "4"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:93
+msgid "Enable Divider"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:98 include/pb/pb-element-icon.php:54
+msgid "Icon Background"
+msgstr ""
+
+#: include/pb/pb-element-icon-list.php:145
+msgid "List Bottom Margin ( Between Items )"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:28
+msgid "Icons"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:64
+msgid "Background Padding"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:84
+msgid "Icon Background Border"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:88
+msgid "Outer"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:89
+msgid "Inner"
+msgstr ""
+
+#: include/pb/pb-element-icon.php:103
+msgid "Icon Border Color"
+msgstr ""
+
+#: include/pb/pb-element-image.php:28
+msgid "Upload Image"
+msgstr ""
+
+#: include/pb/pb-element-image.php:80
+msgid "Overlay Icon"
+msgstr ""
+
+#: include/pb/pb-element-image.php:84
+msgid "Custom"
+msgstr ""
+
+#: include/pb/pb-element-image.php:85
+msgid "None ( Background Overlay )"
+msgstr ""
+
+#: include/pb/pb-element-image.php:86
+msgid "No Overlay"
+msgstr ""
+
+#: include/pb/pb-element-image.php:90
+msgid "Overlay Icon Style"
+msgstr ""
+
+#: include/pb/pb-element-image.php:93
+msgid "On Hover"
+msgstr ""
+
+#: include/pb/pb-element-image.php:94
+msgid "Always Show ( With Round Icon )"
+msgstr ""
+
+#: include/pb/pb-element-image.php:107
+msgid "Enable Caption"
+msgstr ""
+
+#: include/pb/pb-element-image.php:121
+msgid "Alignment ( If max width option is specified )"
+msgstr ""
+
+#: include/pb/pb-element-image.php:127 include/pb/pb-element-promo-box.php:65
+msgid "Enable Shadow"
+msgstr ""
+
+#: include/pb/pb-element-image.php:132
+msgid "Frame Style"
+msgstr ""
+
+#: include/pb/pb-element-image.php:154
+msgid "Overlay Icon Size"
+msgstr ""
+
+#: include/pb/pb-element-image.php:173
+msgid "Overlay Background Color"
+msgstr ""
+
+#: include/pb/pb-element-image.php:177
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: include/pb/pb-element-image.php:181
+msgid "Overlay Icon Background Color ( Round Icon Style )"
+msgstr ""
+
+#: include/pb/pb-element-image.php:185
+msgid "Overlay Background Opacity"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:15
+msgid "Instagram"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:32
+msgid "Instagram Username"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:36
+msgid "Access Token"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:38
+msgid "You can see how to obtain the client-id here."
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:42
+#: include/widget/post-slider-widget.php:126
+#: include/widget/recent-post-widget.php:110
+msgid "Display Number"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:45
+msgid "Maximum number is 20"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:48
+msgid "Cache Time (Hours)"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:61
+msgid "List"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:62
+msgid "List No Space"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:64
+msgid "Carousel No Space"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:83
+msgid "thumbnail"
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:270
+msgid ""
+"Cannot retrieve instagram data, please fill in instagram username and client "
+"ID."
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:289
+#: include/pb/pb-element-instagram.php:306
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:293
+#: include/pb/pb-element-instagram.php:310
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: include/pb/pb-element-instagram.php:299
+msgid "Could not get instagram access token."
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:15
+msgid "Opening Hours"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:29 include/pb/pb-element-tab.php:28
+#: include/pb/pb-element-timeline.php:28
+msgid "Add New Tab"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:35
+msgid "Day"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:39
+msgid "Time"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:43
+msgid "Open"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:49
+#: include/pb/pb-element-opening-hours.php:158
+msgid "Monday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:54
+#: include/pb/pb-element-opening-hours.php:163
+msgid "Tuesday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:59
+#: include/pb/pb-element-opening-hours.php:168
+msgid "Wednesday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:64
+#: include/pb/pb-element-opening-hours.php:173
+msgid "Thursday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:69
+#: include/pb/pb-element-opening-hours.php:178
+msgid "Friday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:74
+#: include/pb/pb-element-opening-hours.php:183
+msgid "Saturday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:79
+#: include/pb/pb-element-opening-hours.php:188
+msgid "Sunday"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:108
+msgid "Day Text Color"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:112
+msgid "Time Text Color"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:116
+msgid "Close Text Color"
+msgstr ""
+
+#: include/pb/pb-element-opening-hours.php:230
+msgid "Closed"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:15
+#: include/pb/pb-element-port-info.php:29
+msgid "Portfolio Info"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:34
+#: include/pb/pb-element-port-info.php:174
+msgid "Client"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:35
+#: include/pb/pb-element-port-info.php:175
+msgid "Sample Client"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:38
+#: include/pb/pb-element-port-info.php:178
+msgid "Skills"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:39
+#: include/pb/pb-element-port-info.php:179
+msgid "Sample Skill, Sample Skill 2"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:42
+#: include/pb/pb-element-port-info.php:182
+msgid "Website"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:43
+#: include/pb/pb-element-port-info.php:183
+msgid "Goodlayers.com"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:49
+msgid "Enable Post Type Taxonomy"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:54
+msgid "With Bottom Border"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:59
+msgid "Taxonomy Head Text"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:61
+msgid "Tags"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:65
+msgid "Select Taxonomy"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:75
+#: include/pb/pb-element-social-share.php:15
+msgid "Social Share"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:79
+msgid "Enable Social Share"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:83
+msgid "Enable"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:84
+msgid "Disable"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:87
+msgid ""
+"Set this option to default to display the social share based on the option "
+"set at the theme option area."
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:90
+#: include/pb/pb-element-social-share.php:28
+msgid "Facebook"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:96
+#: include/pb/pb-element-social-share.php:33
+msgid "Linkedin"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:102
+#: include/pb/pb-element-social-share.php:38
+msgid "Google Plus"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:108
+#: include/pb/pb-element-social-share.php:43
+msgid "Pinterest"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:114
+#: include/pb/pb-element-social-share.php:48
+msgid "Stumbleupon"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:120
+#: include/pb/pb-element-social-share.php:53
+msgid "Twitter"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:126
+#: include/pb/pb-element-social-share.php:58
+msgid "Email"
+msgstr ""
+
+#: include/pb/pb-element-port-info.php:263
+msgid "Share"
+msgstr ""
+
+#: include/pb/pb-element-post-slider.php:15
+msgid "Post Slider"
+msgstr ""
+
+#: include/pb/pb-element-post-slider.php:43
+msgid "The number of posts showing on the post slider item"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:15
+msgid "Price Table"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:24
+#: include/pb/pb-element-price-table.php:25
+#: include/pb/pb-element-price-table.php:26
+#: include/pb/pb-element-price-table.php:27
+#: include/pb/pb-element-price-table.php:313
+#: include/pb/pb-element-price-table.php:314
+#: include/pb/pb-element-price-table.php:315
+#: include/pb/pb-element-price-table.php:316
+msgid "Price default list"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:35
+msgid "Add New Price"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:45
+msgid "Image ( Icon will be omitted )"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:57
+msgid "Price"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:81
+msgid "Feature Price"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:88
+#: include/pb/pb-element-price-table.php:99
+#: include/pb/pb-element-price-table.php:110
+#: include/pb/pb-element-price-table.php:121
+#: include/pb/pb-element-price-table.php:323
+#: include/pb/pb-element-price-table.php:334
+#: include/pb/pb-element-price-table.php:345
+#: include/pb/pb-element-price-table.php:356
+msgid "Price Default Title"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:89
+#: include/pb/pb-element-price-table.php:100
+#: include/pb/pb-element-price-table.php:111
+#: include/pb/pb-element-price-table.php:122
+#: include/pb/pb-element-price-table.php:324
+#: include/pb/pb-element-price-table.php:335
+#: include/pb/pb-element-price-table.php:346
+#: include/pb/pb-element-price-table.php:357
+msgid "Price default caption"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:133
+msgid "Price Prefix"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:138
+msgid "Price Suffix"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:140
+#: include/pb/pb-element-price-table.php:367
+msgid "/ MO"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:148
+#: include/pb/pb-element-price-table.php:213
+msgid "Header Background Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:152
+#: include/pb/pb-element-price-table.php:217
+msgid "Header Background (Top Gradient) Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:168
+#: include/pb/pb-element-price-table.php:233
+msgid "Price Background Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:172
+#: include/pb/pb-element-price-table.php:237
+msgid "Price Prefix Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:176
+#: include/pb/pb-element-price-table.php:241
+msgid "Price Text Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:180
+#: include/pb/pb-element-price-table.php:245
+msgid "Price Suffix Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:184
+#: include/pb/pb-element-price-table.php:249
+msgid "Content Background Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:188
+msgid "Content Text Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:192
+#: include/pb/pb-element-price-table.php:257
+msgid "Content Border Color"
+msgstr ""
+
+#: include/pb/pb-element-price-table.php:204
+#: include/pb/pb-element-price-table.php:269
+msgid "Button Background (Top Gradient) Color"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:15
+msgid "Promo Box"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:40
+#: include/pb/pb-element-promo-box.php:154
+msgid "Promo Box Item Title"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:45
+#: include/pb/pb-element-promo-box.php:155
+msgid "Promo box item sample content"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:60
+msgid "Enable Frame"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:71
+msgid "Frame Padding"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:79
+msgid "Frame Background Color"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:84
+msgid "Frame Border Width"
+msgstr ""
+
+#: include/pb/pb-element-promo-box.php:92
+msgid "Frame Border Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:15
+msgid "Skill Bar"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:28
+msgid "Skill Bar Style"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:39
+msgid "Skill Bar Type"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:43
+msgid "Round Corner"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:48
+msgid "Skill Item"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:54
+#: include/pb/pb-element-skill-circle.php:37
+msgid "Heading Text"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:62
+#: include/pb/pb-element-skill-circle.php:41
+msgid "Percent"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:65
+#: include/pb/pb-element-skill-circle.php:45
+msgid "Only fill the number here"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:68
+#: include/pb/pb-element-skill-circle.php:48
+msgid "Bar Text"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:74
+#: include/pb/pb-element-skill-bar.php:80
+#: include/pb/pb-element-skill-bar.php:154
+#: include/pb/pb-element-skill-bar.php:160
+msgid "Skill Heading Text"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:77
+#: include/pb/pb-element-skill-bar.php:157
+msgid "Sameple Text"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:93
+#: include/pb/pb-element-skill-circle.php:69
+msgid "Heading Text Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:101
+msgid "Percent Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:105
+#: include/pb/pb-element-skill-circle.php:79
+msgid "Bar Filled Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-bar.php:109
+#: include/pb/pb-element-skill-circle.php:84
+msgid "Bar Background Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-circle.php:15
+#: include/pb/pb-element-skill-circle.php:50
+#: include/pb/pb-element-skill-circle.php:133
+msgid "Skill Circle"
+msgstr ""
+
+#: include/pb/pb-element-skill-circle.php:58
+msgid "Item Alignment"
+msgstr ""
+
+#: include/pb/pb-element-skill-circle.php:74
+#: include/pb/pb-element-social-share.php:117
+msgid "Text Color"
+msgstr ""
+
+#: include/pb/pb-element-skill-circle.php:89
+msgid "Circle Background Color"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:15
+msgid "Social Network"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:29
+msgid "Social Delicious Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:33
+msgid "Social Email Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:38
+msgid "Social Deviantart Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:42
+msgid "Social Digg Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:46
+msgid "Social Facebook Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:51
+msgid "Social Flickr Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:55
+msgid "Social Google Plus Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:60
+msgid "Social Lastfm Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:64
+msgid "Social Linkedin Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:68
+msgid "Social Pinterest Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:72
+msgid "Social RSS Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:76
+msgid "Social Skype Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:81
+msgid "Social Stumbleupon Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:85
+msgid "Social Tumblr Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:89
+msgid "Social Twitter Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:94
+msgid "Social Vimeo Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:98
+msgid "Social Youtube Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:102
+msgid "Social Dribbble Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:106
+msgid "Social Behance Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:110
+msgid "Social Instagram Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:114
+msgid "Social Snapchat Link"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:121
+msgid "Style & Size"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:136
+msgid "With Text"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:141
+msgid "Text Size"
+msgstr ""
+
+#: include/pb/pb-element-social-network.php:162
+msgid "Space Between Icon"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:63
+msgid "Social Head Type"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:68
+msgid "Custom Text"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:71
+msgid ""
+"* Counter option will cache the value for about 1 hour, so the share count "
+"will not be showing right away."
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:74
+msgid "Social Head Text"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:77
+msgid "Social Shares"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:85
+msgid "Social Share Layout"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:215
+#: include/pb/pb-element-social-share.php:296
+msgid "Shares"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:278
+msgid "Site sharing"
+msgstr ""
+
+#: include/pb/pb-element-social-share.php:279
+msgid "Please check this site out"
+msgstr ""
+
+#: include/pb/pb-element-space.php:15
+msgid "Space"
+msgstr ""
+
+#: include/pb/pb-element-space.php:28
+msgid "Height"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:15
+msgid "Stunning Text"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:30
+#: include/pb/pb-element-stunning-text.php:149
+msgid "Stunning Text Item Caption"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:35
+#: include/pb/pb-element-stunning-text.php:150
+msgid "Stunning Text Item Title"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:40
+#: include/pb/pb-element-stunning-text.php:151
+msgid "Stunning text item sample content"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:68
+#: include/pb/pb-element-title.php:149
+msgid "Heading Tag"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:71
+#: include/pb/pb-element-title.php:152
+msgid "H1"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:72
+#: include/pb/pb-element-title.php:153
+msgid "H2"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:73
+#: include/pb/pb-element-title.php:154
+msgid "H3"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:74
+#: include/pb/pb-element-title.php:155
+msgid "H4"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:75
+#: include/pb/pb-element-title.php:156
+msgid "H5"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:76
+#: include/pb/pb-element-title.php:157
+msgid "H6"
+msgstr ""
+
+#: include/pb/pb-element-stunning-text.php:116
+msgid "Link Size"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:15
+msgid "Tab"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:44 include/pb/pb-element-tab.php:48
+#: include/pb/pb-element-tab.php:152 include/pb/pb-element-tab.php:156
+msgid "Tab Title"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:45 include/pb/pb-element-tab.php:49
+#: include/pb/pb-element-tab.php:153 include/pb/pb-element-tab.php:157
+msgid "Tab content area"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:59
+msgid "Tab Style"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:71
+msgid "Tab Alignment"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:75
+msgid "Center style only supports with horizontal tab"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:83
+msgid "Tab Title Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:87
+msgid "Tab Title Active Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:91
+msgid "Tab Title Background Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:95
+msgid "Tab Title Active Background Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:99
+msgid "Tab Title Border Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:103
+msgid "Tab Title Border Active Color"
+msgstr ""
+
+#: include/pb/pb-element-tab.php:107
+msgid "Tab Content Color"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:15
+msgid "Testimonial"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:30
+#: include/pb/pb-element-testimonial.php:267
+msgid "Sample Testimonial Title"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:33
+msgid "Title Left Icon ( Only for center style )"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:39
+msgid "Caption ( Only for center style )"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:43
+msgid "Add Testimonial Tab"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:49
+msgid "Name"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:53
+msgid "Position"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:61
+msgid "Author Image"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:65
+msgid "Rating ( Fill number 1 to 10 )"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:71
+#: include/pb/pb-element-testimonial.php:77
+#: include/pb/pb-element-testimonial.php:270
+#: include/pb/pb-element-testimonial.php:276
+msgid "Sameple Name"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:72
+#: include/pb/pb-element-testimonial.php:78
+#: include/pb/pb-element-testimonial.php:271
+#: include/pb/pb-element-testimonial.php:277
+msgid "Sample Position"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:73
+#: include/pb/pb-element-testimonial.php:79
+#: include/pb/pb-element-testimonial.php:272
+#: include/pb/pb-element-testimonial.php:278
+msgid "Sample testimonial content area"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:90
+msgid "Testimonial Style"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:107
+msgid "Enable Testimonial Quote"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:112
+msgid "Enable Carousel"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:135
+msgid "Carousel Nav Style"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:201
+msgid "Quote Color"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:209
+msgid "Name Color"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:213
+msgid "Position Color"
+msgstr ""
+
+#: include/pb/pb-element-testimonial.php:227
+msgid "Content Bottom Margin"
+msgstr ""
+
+#: include/pb/pb-element-text-box.php:15
+msgid "Text Box"
+msgstr ""
+
+#: include/pb/pb-element-text-box.php:30 include/pb/pb-element-text-box.php:91
+#: include/pb/pb-element-text-script.php:30
+#: include/pb/pb-element-text-script.php:91
+msgid "Text box item sample content"
+msgstr ""
+
+#: include/pb/pb-element-text-script.php:15
+msgid "Text Script"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:15 include/pb/pb-element-timeline.php:53
+#: include/pb/pb-element-timeline.php:59 include/pb/pb-element-timeline.php:109
+#: include/pb/pb-element-timeline.php:115
+msgid "Timeline"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:52 include/pb/pb-element-timeline.php:58
+#: include/pb/pb-element-timeline.php:108
+#: include/pb/pb-element-timeline.php:114
+msgid "1985-1990"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:54 include/pb/pb-element-timeline.php:60
+#: include/pb/pb-element-timeline.php:110
+#: include/pb/pb-element-timeline.php:116
+msgid "Caption Text"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:55 include/pb/pb-element-timeline.php:61
+#: include/pb/pb-element-timeline.php:111
+#: include/pb/pb-element-timeline.php:117
+msgid "Content Area"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:71
+msgid "Timeline Date Width"
+msgstr ""
+
+#: include/pb/pb-element-timeline.php:77
+msgid "Timeline Date Right Padding"
+msgstr ""
+
+#: include/pb/pb-element-title.php:30 include/pb/pb-element-title.php:307
+msgid "Default Sample Title"
+msgstr ""
+
+#: include/pb/pb-element-title.php:35 include/pb/pb-element-title.php:308
+msgid "Default sample caption text"
+msgstr ""
+
+#: include/pb/pb-element-title.php:41
+msgid "Top"
+msgstr ""
+
+#: include/pb/pb-element-title.php:42
+msgid "Bottom"
+msgstr ""
+
+#: include/pb/pb-element-title.php:48
+msgid "Title Width"
+msgstr ""
+
+#: include/pb/pb-element-title.php:55
+msgid "Title Link Text"
+msgstr ""
+
+#: include/pb/pb-element-title.php:57
+msgid "Leave this field blank to link the title text"
+msgstr ""
+
+#: include/pb/pb-element-title.php:60
+msgid "Title Link"
+msgstr ""
+
+#: include/pb/pb-element-title.php:64
+msgid "Title Link Target"
+msgstr ""
+
+#: include/pb/pb-element-title.php:83
+msgid "Left Media Type"
+msgstr ""
+
+#: include/pb/pb-element-title.php:94
+msgid "Left Icon Selector"
+msgstr ""
+
+#: include/pb/pb-element-title.php:101
+msgid "Left Image"
+msgstr ""
+
+#: include/pb/pb-element-title.php:114
+msgid "Enable Side Border"
+msgstr ""
+
+#: include/pb/pb-element-title.php:120
+msgid "Side Border Size"
+msgstr ""
+
+#: include/pb/pb-element-title.php:126
+msgid "Side Border Spaces ( Before Title )"
+msgstr ""
+
+#: include/pb/pb-element-title.php:132
+msgid "Side Border Style"
+msgstr ""
+
+#: include/pb/pb-element-title.php:136
+msgid "Double"
+msgstr ""
+
+#: include/pb/pb-element-title.php:137
+msgid "Dotted"
+msgstr ""
+
+#: include/pb/pb-element-title.php:138
+msgid "Dash"
+msgstr ""
+
+#: include/pb/pb-element-title.php:144
+msgid "Side Border Divider Color"
+msgstr ""
+
+#: include/pb/pb-element-title.php:167
+msgid "Left Icon Size ( Only for left align with icon )"
+msgstr ""
+
+#: include/pb/pb-element-title.php:172
+msgid "Title Font Size"
+msgstr ""
+
+#: include/pb/pb-element-title.php:192
+msgid "Title Font Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-title.php:198
+msgid "Title Font Uppercase"
+msgstr ""
+
+#: include/pb/pb-element-title.php:203
+msgid "Caption Font Size"
+msgstr ""
+
+#: include/pb/pb-element-title.php:208
+msgid "Caption Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-title.php:222
+msgid "Caption Font Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-title.php:228
+msgid "Caption Font Uppercase"
+msgstr ""
+
+#: include/pb/pb-element-title.php:238
+msgid "Left Icon Color"
+msgstr ""
+
+#: include/pb/pb-element-title.php:246
+msgid "Title Link Hover Color"
+msgstr ""
+
+#: include/pb/pb-element-title.php:260
+msgid "Space Between Caption ( And Title )"
+msgstr ""
+
+#: include/pb/pb-element-title.php:266
+msgid "Left Media Margin ( Only for left title style )"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:15
+msgid "Toggle Box"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:28
+msgid "Add Toggle Box Tab"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:34
+msgid "Head Text"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:46
+msgid "Is Active"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:52
+#: include/pb/pb-element-toggle-box.php:57
+#: include/pb/pb-element-toggle-box.php:129
+#: include/pb/pb-element-toggle-box.php:134
+msgid "A Toggle Box Title"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:53
+#: include/pb/pb-element-toggle-box.php:58
+#: include/pb/pb-element-toggle-box.php:130
+#: include/pb/pb-element-toggle-box.php:135
+msgid "A toggle box content area"
+msgstr ""
+
+#: include/pb/pb-element-toggle-box.php:69
+msgid "Toggle Box Style"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:15
+msgid "Type Animation"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:28
+msgid "Animate Text Prefix"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:30
+#: include/pb/pb-element-type-animation.php:153
+msgid "Text Prefix"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:33
+msgid "Animate Text First"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:35
+#: include/pb/pb-element-type-animation.php:154
+msgid "Animate Text"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:38
+msgid "Animate Text Second"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:40
+#: include/pb/pb-element-type-animation.php:155
+msgid "Second Words"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:43
+msgid "Animate Text Suffix"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:45
+#: include/pb/pb-element-type-animation.php:156
+msgid "Text Suffix"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:59
+msgid "Border Bottom Width"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:77
+msgid "Font Weight"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:82
+msgid "Font Style"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:91
+msgid "Font Letter Spacing"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:102
+msgid "Font Color"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:106
+msgid "Border Bottom Color"
+msgstr ""
+
+#: include/pb/pb-element-type-animation.php:110
+msgid "Background (Highlight) Color"
+msgstr ""
+
+#: include/pb/pb-element-video.php:15
+msgid "Video"
+msgstr ""
+
+#: include/pb/pb-element-video.php:28
+msgid "Video Type"
+msgstr ""
+
+#: include/pb/pb-element-video.php:39
+msgid "Video URL"
+msgstr ""
+
+#: include/pb/pb-element-widget.php:15
+msgid "Widget"
+msgstr ""
+
+#: include/pb/pb-element-widget.php:28
+msgid "Select Widget Area"
+msgstr ""
+
+#: include/pb/pb-element-wordpress-editor-content.php:14
+msgid "Wordpress Editor Content"
+msgstr ""
+
+#: include/pb/pb-element-wordpress-editor-content.php:82
+msgid ""
+"This item pulls content from default \"wordpress editor\" to be shown among "
+"the page builder items on the front end of the site."
+msgstr ""
+
+#: include/pb/pb-element-wordpress-editor-content.php:83
+msgid ""
+"You may have to disable the \"Show Wordpress Editor Content\" at the \"Page "
+"Option\" area out to prevent duplicate content."
+msgstr ""
+
+#: include/widget/post-slider-widget.php:21
+msgid "Post Slider Widget ( Goodlayers )"
+msgstr ""
+
+#: include/widget/post-slider-widget.php:22
+msgid "A widget that show latest posts as slider"
+msgstr ""
+
+#: include/widget/recent-post-widget.php:21
+msgid "Recent Post Widget ( Goodlayers )"
+msgstr ""
+
+#: include/widget/recent-post-widget.php:22
+msgid "A widget that show latest posts"
+msgstr ""
+
+#: template/prebuilt-block.php:12
+msgid "Basic Column Services"
+msgstr ""
+
+#: template/prebuilt-block.php:17
+msgid "Basic Column Services 2"
+msgstr ""
+
+#: template/prebuilt-block.php:22
+msgid "Basic Counters"
+msgstr ""
+
+#: template/prebuilt-block.php:27
+msgid "Big Column Services"
+msgstr ""
+
+#: template/prebuilt-block.php:32
+msgid "Column Services Images"
+msgstr ""
+
+#: template/prebuilt-block.php:37
+msgid "Column Services 2"
+msgstr ""
+
+#: template/prebuilt-block.php:42
+msgid "Column Services 3"
+msgstr ""
+
+#: template/prebuilt-block.php:47
+msgid "Column Services X3"
+msgstr ""
+
+#: template/prebuilt-block.php:52
+msgid "Counter Box X4"
+msgstr ""
+
+#: template/prebuilt-block.php:57
+msgid "Custom Contact 1"
+msgstr ""
+
+#: template/prebuilt-block.php:62
+msgid "Custom Counters"
+msgstr ""
+
+#: template/prebuilt-block.php:67
+msgid "Custom Footer"
+msgstr ""
+
+#: template/prebuilt-block.php:72
+msgid "Custom Map"
+msgstr ""
+
+#: template/prebuilt-block.php:77
+msgid "Custom Services 1"
+msgstr ""
+
+#: template/prebuilt-block.php:82
+msgid "Custom Services 2"
+msgstr ""
+
+#: template/prebuilt-block.php:87
+msgid "Custom Services 3"
+msgstr ""
+
+#: template/prebuilt-block.php:92
+msgid "Featured Boxes"
+msgstr ""
+
+#: template/prebuilt-block.php:97
+msgid "Featured Content"
+msgstr ""
+
+#: template/prebuilt-block.php:102
+msgid "Flip Boxes"
+msgstr ""
+
+#: template/prebuilt-block.php:107
+msgid "Flip Boxes X3"
+msgstr ""
+
+#: template/prebuilt-block.php:112
+msgid "Flip Boxes Accordion"
+msgstr ""
+
+#: template/prebuilt-block.php:117
+msgid "Half About"
+msgstr ""
+
+#: template/prebuilt-block.php:122
+msgid "Half Box Services"
+msgstr ""
+
+#: template/prebuilt-block.php:127
+msgid "Half Box X3"
+msgstr ""
+
+#: template/prebuilt-block.php:132
+msgid "Half Box X3-2"
+msgstr ""
+
+#: template/prebuilt-block.php:137
+msgid "Half Contact"
+msgstr ""
+
+#: template/prebuilt-block.php:142
+msgid "Half Contact 2"
+msgstr ""
+
+#: template/prebuilt-block.php:147
+msgid "Image Boxes X3"
+msgstr ""
+
+#: template/prebuilt-block.php:152
+msgid "Left Mobile Services"
+msgstr ""
+
+#: template/prebuilt-block.php:157
+msgid "Modern Services"
+msgstr ""
+
+#: template/prebuilt-block.php:162
+msgid "Right Display Services"
+msgstr ""
+
+#: template/prebuilt-block.php:167
+msgid "Service Boxes X4"
+msgstr ""
+
+#: template/prebuilt-block.php:172
+msgid "Text With Skills"
+msgstr ""
+
+#: template/prebuilt-block.php:177
+msgid "Three Boxes Info"
+msgstr ""
